@@ -1,0 +1,649 @@
+{
+    "expertise": [
+        {
+            "name": "Air Pollution",
+            "subOptions": [
+                "Air Pollution And Its Effects On Human Health",
+                "Air Pollution Control",
+                "Air Pollution Monitoring And Measurement Techniques",
+                "Air Quality Modeling",
+                "Emission Inventory",
+                "Air Quality Monitoring And Analysis",
+                "Indoor Air Quality",
+                "Stack Monitoring",
+                "Meteorology Air Quality Modeling And Prediction (AQ)",
+                "Meteorology Air Quality Modeling And Prediction",
+                "Emission Inventory",
+                "Air Pollution Monitoring Prevention And Control",
+                "Air Pollution Control",
+                "Air Quality Modeling",
+                "Air Pollution Monitoring And Measurement Techniques",
+                "Air Quality Monitoring And Analysis",
+                "Air Pollution And Its Effects On Human Health"
+            ]
+        },
+        {
+            "name": "Chemistry",
+            "subOptions": [
+                "Organic Chemistry",
+                "Inorganic Chemistry",
+                "Physical Chemistry",
+                "Environmental Chemistry",
+                "Analytical Chemistry",
+                "Biochemistry",
+                "Molecular Imprinting Technology",
+                "Biochemistry",
+                "Organic Chemistry",
+                "Physical Chemistry"
+            ]
+        },
+        {
+            "name": "Atmospheric Science",
+            "subOptions": [
+                "Atmospheric Science And Meteorology",
+                "Atmospheric Science And Meteorology"
+            ]
+        },
+        {
+            "name": "Health and Safety",
+            "subOptions": [
+                "Public Health",
+                "Epidemiology and Public Health",
+                "Health Impact Assessment",
+                "Occupational Health",
+                "Public Health",
+                "Epidemiology And Public Health"
+            ]
+        },
+        {
+            "name": "Water Management and Quality",
+            "subOptions": [
+                "Water Conservation",
+                "Water Distribution Systems",
+                "Water Treatment Processes",
+                "Water Management And Conservation",
+                "Water Pollution Control",
+                "Water Quality Assessment",
+                "Water Quality Management",
+                "Water Quality Monitoring And Analysis",
+                "Water Quality Testing And Analysis",
+                "Water Resource Management",
+                "Water Treatment Technology",
+                "Phytorid Technology",
+                "Water Safety Plan Development",
+                "Water pollution monitoring prevention and control (WP)",
+                "Water Pollution Monitoring Prevention And Control",
+                "Water Conservation",
+                "Water Pollution Control",
+                "Water Resource Management",
+                "Water Management And Conservation",
+                "Water Quality Monitoring And Analysis"
+            ]
+        },
+        {
+            "name": "Environmental Management",
+            "subOptions": [
+                "Environmental Impact Assessment",
+                "Environmental Compliance",
+                "Sustainable Development",
+                "Environmental Health and Safety",
+                "Environmental Management Systems",
+                "Environmental Monitoring And Assessment",
+                "Socio-economic Impact Assessment",
+                "Landfill Management",
+                "Natural Resource Management",
+                "Environmental Health And Safety",
+                "Natural Resource Management",
+                "Landfill Management"
+            ]
+        },
+        {
+            "name": "Ecology and Conservation",
+            "subOptions": [
+                "Ecology",
+                "Biodiversity Conservation and Management",
+                "Wetland Restoration And Conservation",
+                "Conservation Biology",
+                "Wildlife Management",
+                "Marine Biology",
+                "River Ecology",
+                "Wildlife Management",
+                "Conservation Biology",
+                "Ecology",
+                "River Ecology",
+                "Ecology And Biodiversity"
+            ]
+        },
+        {
+            "name": "Geosciences",
+            "subOptions": [
+                "Geology",
+                "Geochemistry",
+                "Geophysics",
+                "Limnology",
+                "Geology And Soil Science",
+                "Groundwater Hydrology",
+                "Groundwater Modeling",
+                "Groundwater Monitoring",
+                "Hydrogeology",
+                "Soil And Land Management",
+                "Soil Sampling And Analysis",
+                "Soil Science",
+                "Soil Conservation",
+                "Soil Conservation",
+                "Groundwater Modeling",
+                "Hydrology Ground Water And Water Conservation",
+                "Soil Science"
+            ]
+        },
+        {
+            "name": "Chemical Engineering",
+            "subOptions": [
+                "Process Engineering",
+                "Catalysis",
+                "Industrial Emissions Control Technologies",
+                "Industrial Pollution Control",
+                "Industrial Ecology",
+                "Industrial Processes",
+                "Industrial Pollution Control",
+                "Industrial Emissions Control Technologies",
+                "Industrial Processes",
+                "Process Engineering"
+            ]
+        },
+        {
+            "name": "Civil Engineering",
+            "subOptions": [
+                "Hydraulic Engineering",
+                "Geotechnical Engineering",
+                "Transportation Engineering",
+                "Urban Planning and Design",
+                "Environmental Engineering",
+                "Land Use Planning",
+                "Environmental Engineering",
+                "Transportation Engineering"
+            ]
+        },
+        {
+            "name": "Materials Science and Engineering",
+            "subOptions": [
+                "Materials Science",
+                "Nanotechnology",
+                "Materials Science",
+                "Nanotechnology"
+            ]
+        },
+        {
+            "name": "Electrical and Mechanical Engineering",
+            "subOptions": [
+                "Electrical Engineering",
+                "Mechanical Engineering",
+                "Sensor Technology and Data Collection",
+                "Renewable Energy Technologies",
+                "Renewable Energy Technologies",
+                "Mechanical Engineering",
+                "Electrical Engineering"
+            ]
+        },
+        {
+            "name": "Information Technology and Data Science",
+            "subOptions": [
+                "Data Analysis and Statistics",
+                "Geographic Information Systems And Remote Sensing",
+                "Information Technology And Software Development",
+                "Decision Support Systems",
+                "Internet of Things",
+                "Data Science and Analytics",
+                "Database Management",
+                "Sensor Technology And Data Collection",
+                "Internet Of Things",
+                "Information Technology And Software Development",
+                "Database Management",
+                "Data Analysis And Statistics"
+            ]
+        },
+        {
+            "name": "Biology",
+            "subOptions": [
+                "Botany",
+                "Microbiology",
+                "Zoology",
+                "Genetics",
+                "Marine Biology",
+                "Virology",
+                "Environmental Microbiology",
+                "Vermicomposting",
+                "Environmental Microbiology",
+                "Marine Biology",
+                "Zoology"
+            ]
+        },
+        {
+            "name": "Waste Management and Recycling",
+            "subOptions": [
+                "Solid Waste Management",
+                "Hazardous Waste Management",
+                "Waste Reduction and Recycling",
+                "Waste-to-energy Technologies",
+                "Hazardous Materials Handling And Storage",
+                "Waste Characterization And Quantification",
+                "Waste Management And Disposal",
+                "Waste Processing Technology",
+                "Wastewater Treatment",
+                "Solid And Hazardous Waste Management",
+                "Waste Reduction And Recycling",
+                "Waste Processing Technology",
+                "Hazardous Waste Management",
+                "Wastewater Treatment",
+                "Waste Characterization And Quantification",
+                "Waste-To-Energy Technologies"
+            ]
+        },
+        {
+            "name": "Mining Engineering",
+            "subOptions": [
+                "Mine Closure Planning And Execution",
+                "Mining And Mineral Processing",
+                "Coal Mining And Its Impact On The Environment",
+                "Mining Operations And Processes",
+                "Mining Operations And Processes"
+            ]
+        },
+        {
+            "name": "Policy and Regulation",
+            "subOptions": [
+                "Environmental Policy and Governance",
+                "Policy and Regulatory Compliance",
+                "Social Impact Assessment",
+                "Community Development and Engagement",
+                "Environmental Policy",
+                "Policy And Governance",
+                "Policy And Regulatory Frameworks",
+                "Land Reclamation",
+                "Environmental Policy And Governance",
+                "Policy And Regulatory Compliance",
+                "Environmental Policy",
+                "Policy And Regulatory Frameworks"
+            ]
+        },
+        {
+            "name": "Other",
+            "subOptions": [
+                "Carbon Sequestration",
+                "Bamboo Cultivation And Propagation Techniques",
+                "Bioremediation",
+                "Climate Change Adaptation And Mitigation",
+                "Combustion Science",
+                "Industrial Processes",
+                "Noise Pollution Control",
+                "Noise and Vibration (NV)",
+                "Quality Control And Assurance",
+                "Procurement And Contract Management",
+                "Safety Engineering",
+                "Project Management And Implementation",
+                "Project Management And Scheduling",
+                "Project Management And Planning",
+                "Project Management",
+                "Risk assessment and hazards",
+                "Project Management And Implementation",
+                "Climate Change Adaptation And Mitigation",
+                "Bamboo Cultivation And Propagation Techniques"
+            ]
+        },
+        {
+            "name": "Solid Waste Management",
+            "subOptions": [
+                "Solid Waste Management"
+            ]
+        },
+        {
+            "name": "Biodiversity Conservation And Management",
+            "subOptions": [
+                "Biodiversity Conservation And Management"
+            ]
+        },
+        {
+            "name": "Sustainable Development",
+            "subOptions": [
+                "Sustainable Development"
+            ]
+        },
+        {
+            "name": "Water Treatment Processes",
+            "subOptions": [
+                "Water Treatment Processes"
+            ]
+        },
+        {
+            "name": "Water Distribution Systems",
+            "subOptions": [
+                "Water Distribution Systems"
+            ]
+        },
+        {
+            "name": "Project Management And Scheduling",
+            "subOptions": [
+                "Project Management And Scheduling"
+            ]
+        },
+        {
+            "name": "Stack Monitoring",
+            "subOptions": [
+                "Stack Monitoring"
+            ]
+        },
+        {
+            "name": "Botany",
+            "subOptions": [
+                "Botany"
+            ]
+        },
+        {
+            "name": "Occupational Health",
+            "subOptions": [
+                "Occupational Health"
+            ]
+        },
+        {
+            "name": "Project Management And Planning",
+            "subOptions": [
+                "Project Management And Planning"
+            ]
+        },
+        {
+            "name": "Water Treatment Technology",
+            "subOptions": [
+                "Water Treatment Technology"
+            ]
+        },
+        {
+            "name": "Phytorid Technology",
+            "subOptions": [
+                "Phytorid Technology"
+            ]
+        },
+        {
+            "name": "Groundwater Monitoring",
+            "subOptions": [
+                "Groundwater Monitoring"
+            ]
+        },
+        {
+            "name": "Inorganic Chemistry",
+            "subOptions": [
+                "Inorganic Chemistry"
+            ]
+        },
+        {
+            "name": "Project Management",
+            "subOptions": [
+                "Project Management"
+            ]
+        },
+        {
+            "name": "Environmental Impact Assessment",
+            "subOptions": [
+                "Environmental Impact Assessment"
+            ]
+        },
+        {
+            "name": "Bioremediation",
+            "subOptions": [
+                "Bioremediation"
+            ]
+        },
+        {
+            "name": "Geographic Information Systems And Remote Sensing",
+            "subOptions": [
+                "Geographic Information Systems And Remote Sensing"
+            ]
+        },
+        {
+            "name": "Genetics",
+            "subOptions": [
+                "Genetics"
+            ]
+        },
+        {
+            "name": "Analytical Chemistry",
+            "subOptions": [
+                "Analytical Chemistry"
+            ]
+        },
+        {
+            "name": "Water Quality Assessment",
+            "subOptions": [
+                "Water Quality Assessment"
+            ]
+        },
+        {
+            "name": "Environmental Management Systems",
+            "subOptions": [
+                "Environmental Management Systems"
+            ]
+        },
+        {
+            "name": "Catalysis",
+            "subOptions": [
+                "Catalysis"
+            ]
+        },
+        {
+            "name": "Risk Assessment And Hazards",
+            "subOptions": [
+                "Risk Assessment And Hazards"
+            ]
+        },
+        {
+            "name": "Carbon Sequestration",
+            "subOptions": [
+                "Carbon Sequestration"
+            ]
+        },
+        {
+            "name": "Urban Planning And Design",
+            "subOptions": [
+                "Urban Planning And Design"
+            ]
+        },
+        {
+            "name": "Noise Pollution Control",
+            "subOptions": [
+                "Noise Pollution Control"
+            ]
+        },
+        {
+            "name": "Policy And Governance",
+            "subOptions": [
+                "Policy And Governance"
+            ]
+        },
+        {
+            "name": "Environmental Chemistry",
+            "subOptions": [
+                "Environmental Chemistry"
+            ]
+        },
+        {
+            "name": "Social Impact Assessment",
+            "subOptions": [
+                "Social Impact Assessment"
+            ]
+        },
+        {
+            "name": "Land Use Planning",
+            "subOptions": [
+                "Land Use Planning",
+                "Land Use"
+            ]
+        },
+        {
+            "name": "Quality Control And Assurance",
+            "subOptions": [
+                "Quality Control And Assurance"
+            ]
+        },
+        {
+            "name": "Data Science And Analytics",
+            "subOptions": [
+                "Data Science And Analytics"
+            ]
+        },
+        {
+            "name": "Groundwater Hydrology",
+            "subOptions": [
+                "Groundwater Hydrology"
+            ]
+        },
+        {
+            "name": "Land Reclamation",
+            "subOptions": [
+                "Land Reclamation"
+            ]
+        },
+        {
+            "name": "Water Quality Management",
+            "subOptions": [
+                "Water Quality Management"
+            ]
+        },
+        {
+            "name": "Vermicomposting",
+            "subOptions": [
+                "Vermicomposting"
+            ]
+        },
+        {
+            "name": "Hydrogeology",
+            "subOptions": [
+                "Hydrogeology"
+            ]
+        },
+        {
+            "name": "Waste Management And Disposal",
+            "subOptions": [
+                "Waste Management And Disposal"
+            ]
+        },
+        {
+            "name": "Wetland Restoration And Conservation",
+            "subOptions": [
+                "Wetland Restoration And Conservation"
+            ]
+        },
+        {
+            "name": "Indoor Air Quality",
+            "subOptions": [
+                "Indoor Air Quality"
+            ]
+        },
+        {
+            "name": "Sensor Technology And Data Collection",
+            "subOptions": [
+                "Sensor Technology And Data Collection"
+            ]
+        },
+        {
+            "name": "Hazardous Materials Handling And Storage",
+            "subOptions": [
+                "Hazardous Materials Handling And Storage"
+            ]
+        },
+        {
+            "name": "Decision Support Systems",
+            "subOptions": [
+                "Decision Support Systems"
+            ]
+        },
+        {
+            "name": "Virology",
+            "subOptions": [
+                "Virology"
+            ]
+        },
+        {
+            "name": "Environmental Monitoring And Assessment",
+            "subOptions": [
+                "Environmental Monitoring And Assessment"
+            ]
+        },
+        {
+            "name": "Geophysics",
+            "subOptions": [
+                "Geophysics"
+            ]
+        },
+        {
+            "name": "Coal Mining And Its Impact On The Environment",
+            "subOptions": [
+                "Coal Mining And Its Impact On The Environment"
+            ]
+        },
+        {
+            "name": "Microbiology",
+            "subOptions": [
+                "Microbiology"
+            ]
+        },
+        {
+            "name": "Solid And Hazardous Waste Management",
+            "subOptions": [
+                "Solid And Hazardous Waste Management"
+            ]
+        },
+        {
+            "name": "Water Quality Testing And Analysis",
+            "subOptions": [
+                "Water Quality Testing And Analysis"
+            ]
+        },
+        {
+            "name": "Environmental Compliance",
+            "subOptions": [
+                "Environmental Compliance"
+            ]
+        },
+        {
+            "name": "Water Safety Plan Development",
+            "subOptions": [
+                "Water Safety Plan Development"
+            ]
+        },
+        {
+            "name": "Combustion Science",
+            "subOptions": [
+                "Combustion Science"
+            ]
+        },
+        {
+            "name": "Environmental Engineering",
+            "subOptions": [
+                "Environmental Engineering"
+            ]
+        },
+        {
+            "name": "Soil Sampling And Analysis",
+            "subOptions": [
+                "Soil Sampling And Analysis"
+            ]
+        },
+        {
+            "name": "Health Impact Assessment",
+            "subOptions": [
+                "Health Impact Assessment"
+            ]
+        },
+        {
+            "name": "Soil And Land Management",
+            "subOptions": [
+                "Soil And Land Management"
+            ]
+        },
+        {
+            "name": "Geology",
+            "subOptions": [
+                "Geology"
+            ]
+        }
+    ]
+}

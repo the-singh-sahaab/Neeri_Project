@@ -1,0 +1,226 @@
+{
+  "expertise": [
+    {
+      "name": "Air Pollution",
+      "subOptions": [
+        "Air Pollution And Its Effects On Human Health",
+        "Air Pollution Control",
+        "Air Pollution Monitoring And Measurement Techniques",
+        "Air Quality Modeling",
+        "Emission Inventory",
+        "Air Quality Monitoring And Analysis",
+        "Indoor Air Quality",
+        "Stack Monitoring",
+        "Meteorology Air Quality Modeling And Prediction (AQ)"
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "subOptions": [
+        "Organic Chemistry",
+        "Inorganic Chemistry",
+        "Physical Chemistry",
+        "Environmental Chemistry",
+        "Analytical Chemistry",
+        "Biochemistry",
+        "Molecular Imprinting Technology"
+      ]
+    },
+    {
+      "name": "Atmospheric Science",
+      "subOptions": ["Atmospheric Science And Meteorology"]
+    },
+    {
+      "name": "Health and Safety",
+      "subOptions": [
+        "Public Health",
+        "Epidemiology and Public Health",
+        "Health Impact Assessment",
+        "Occupational Health"
+      ]
+    },
+    {
+      "name": "Water Management and Quality",
+      "subOptions": [
+        "Water Conservation",
+        "Water Distribution Systems",
+        "Water Treatment Processes",
+        "Water Management And Conservation",
+        "Water Pollution Control",
+        "Water Quality Assessment",
+        "Water Quality Management",
+        "Water Quality Monitoring And Analysis",
+        "Water Quality Testing And Analysis",
+        "Water Resource Management",
+        "Water Treatment Technology",
+        "Phytorid Technology",
+        "Water Safety Plan Development",
+        "Water pollution monitoring prevention and control (WP)"
+      ]
+    },
+    {
+      "name": "Environmental Management",
+      "subOptions": [
+        "Environmental Impact Assessment",
+        "Environmental Compliance",
+        "Sustainable Development",
+        "Environmental Health and Safety",
+        "Environmental Management Systems",
+        "Environmental Monitoring And Assessment",
+        "Socio-economic Impact Assessment",
+        "Landfill Management",
+        "Natural Resource Management"
+      ]
+    },
+    {
+      "name": "Ecology and Conservation",
+      "subOptions": [
+        "Ecology",
+        "Biodiversity Conservation and Management",
+        "Wetland Restoration And Conservation",
+        "Conservation Biology",
+        "Wildlife Management",
+        "Marine Biology",
+        "River Ecology"
+      ]
+    },
+    {
+      "name": "Geosciences",
+      "subOptions": [
+        "Geology",
+        "Geochemistry",
+        "Geophysics",
+        "Limnology",
+        "Geology And Soil Science",
+        "Groundwater Hydrology",
+        "Groundwater Modeling",
+        "Groundwater Monitoring",
+        "Hydrogeology",
+        "Soil And Land Management",
+        "Soil Sampling And Analysis",
+        "Soil Science",
+        "Soil Conservation"
+      ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "subOptions": [
+        "Process Engineering",
+        "Catalysis",
+        "Industrial Emissions Control Technologies",
+        "Industrial Pollution Control",
+        "Industrial Ecology",
+        "Industrial Processes"
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "subOptions": [
+        "Hydraulic Engineering",
+        "Geotechnical Engineering",
+        "Transportation Engineering",
+        "Urban Planning and Design",
+        "Environmental Engineering",
+        "Land Use Planning",
+        "Environmental Engineering"
+      ]
+    },
+    {
+      "name": "Materials Science and Engineering",
+      "subOptions": ["Materials Science", "Nanotechnology"]
+    },
+    {
+      "name": "Electrical and Mechanical Engineering",
+      "subOptions": [
+        "Electrical Engineering",
+        "Mechanical Engineering",
+        "Sensor Technology and Data Collection",
+        "Renewable Energy Technologies"
+      ]
+    },
+    {
+      "name": "Information Technology and Data Science",
+      "subOptions": [
+        "Data Analysis and Statistics",
+        "Geographic Information Systems And Remote Sensing",
+        "Information Technology And Software Development",
+        "Decision Support Systems",
+        "Internet of Things",
+        "Data Science and Analytics",
+        "Database Management",
+        "Sensor Technology And Data Collection"
+      ]
+    },
+    {
+      "name": "Biology",
+      "subOptions": [
+        "Botany",
+        "Microbiology",
+        "Zoology",
+        "Genetics",
+        "Marine Biology",
+        "Virology",
+        "Environmental Microbiology",
+        "Vermicomposting"
+      ]
+    },
+    {
+      "name": "Waste Management and Recycling",
+      "subOptions": [
+        "Solid Waste Management",
+        "Hazardous Waste Management",
+        "Waste Reduction and Recycling",
+        "Waste-to-energy Technologies",
+        "Hazardous Materials Handling And Storage",
+        "Waste Characterization And Quantification",
+        "Waste Management And Disposal",
+        "Waste Processing Technology",
+        "Wastewater Treatment",
+        "Solid And Hazardous Waste Management"
+      ]
+    },
+    {
+      "name": "Mining Engineering",
+      "subOptions": [
+        "Mine Closure Planning And Execution",
+        "Mining And Mineral Processing",
+        "Coal Mining And Its Impact On The Environment",
+        "Mining Operations And Processes"
+      ]
+    },
+    {
+      "name": "Policy and Regulation",
+      "subOptions": [
+        "Environmental Policy and Governance",
+        "Policy and Regulatory Compliance",
+        "Social Impact Assessment",
+        "Community Development and Engagement",
+        "Environmental Policy",
+        "Policy And Governance",
+        "Policy And Regulatory Frameworks",
+        "Land Reclamation"
+      ]
+    },
+    {
+      "name": "Other",
+      "subOptions": [
+        "Carbon Sequestration",
+        "Bamboo Cultivation And Propagation Techniques",
+        "Bioremediation",
+        "Climate Change Adaptation And Mitigation",
+        "Combustion Science",
+        "Industrial Processes",
+        "Noise Pollution Control",
+        "Noise and Vibration (NV)",
+        "Quality Control And Assurance",
+        "Procurement And Contract Management",
+        "Safety Engineering",
+        "Project Management And Implementation",
+        "Project Management And Scheduling",
+        "Project Management And Planning",
+        "Project Management",
+        "Risk assessment and hazards"
+      ]
+    }
+  ]
+}

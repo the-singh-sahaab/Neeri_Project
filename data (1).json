@@ -1,0 +1,2494 @@
+{
+    "expertise": [
+        {
+            "name": "Air Pollution",
+            "subOptions": [
+                "Air Pollution And Its Effects On Human Health",
+                "Air Pollution Control",
+                "Air Pollution Monitoring And Measurement Techniques",
+                "Air Quality Modeling",
+                "Emission Inventory",
+                "Air Quality Monitoring And Analysis",
+                "Indoor Air Quality",
+                "Stack Monitoring",
+                "Chemical And Physical Properties Of Air Pollutants",
+                "Dust Suppressant Technologies",
+                "Dust Suppression Techniques And Technologies",
+                "Dust Emission Measurement And Control",
+                "Greenhouse Gas Emissions Inventory",
+                "And Air Conditioning Systems",
+                "Flue Gas Emissions",
+                "Air Pollution Monitoring",
+                "Gas Detection And Monitoring Equipment",
+                "Air Pollution Control Technologies And Equipment",
+                "Emission Monitoring And Measurement Techniques",
+                "Air Pollution",
+                "Hvac Heating",
+                "Sustainable And Energy-Efficient Air Purification Solutions",
+                "Air Pollution Sources And Dispersion",
+                "Industrial Emissions And Their Contribution To Air Pollution",
+                "Maintenance And Upkeep Of Air Purification Systems",
+                "Air Quality",
+                "Pollution Source Identification",
+                "Gas Detection And Analysis",
+                "Health Impacts Of Air Pollution",
+                "Emission Inventory",
+                "Stack Emission Monitoring Techniques",
+                "Cost-Benefit Analysis And Economic Evaluation Of Air Quality Improvement Measures",
+                "Indoor Air Pollution",
+                "Stack Emissions Monitoring",
+                "Dust Suppression Techniques",
+                "Air Pollution Control",
+                "Ventilation",
+                "Air Quality Science And Technology",
+                "Hvac Systems And Their Role In Air Purification",
+                "Emission Inventory Development And Management",
+                "Environmental Pollution And Its Impact On Human Health",
+                "Air Pollution Control Technology",
+                "Ozone Generation Technology",
+                "Emission Factors And Emission Estimation Methods",
+                "Air Quality Monitoring And Management",
+                "Health Effects Of Particulate Matter Exposure",
+                "Environmental Health And Pollution",
+                "Pollution Assessment",
+                "Pollution Control Technologies",
+                "Environmental Health",
+                "Cost-Benefit Analysis Of Air Purification Systems",
+                "Traditional Cooking Practices And Their Contribution To Indoor Air Pollution",
+                "Statistical Analysis And Modeling Of Air Pollution Data"
+            ]
+        },
+        {
+            "name": "Chemistry",
+            "subOptions": [
+                "Organic Chemistry",
+                "Inorganic Chemistry",
+                "Physical Chemistry",
+                "Environmental Chemistry",
+                "Analytical Chemistry",
+                "Biochemistry",
+                "Molecular Imprinting Technology",
+                "Chemistry Of Silver Ionization",
+                "Chemical And Biological Contaminants In Water",
+                "Chemistry And Chemical Analysis",
+                "Atmospheric Chemistry And Physics",
+                "Chemical Analysis And Laboratory Testing",
+                "Analytical Techniques",
+                "Contaminant Transport And Fate",
+                "Chemicals And Reagents",
+                "Spectroscopy",
+                "Water Chemistry",
+                "Atmospheric Chemistry",
+                "Analytical Chemistry",
+                "Surface Chemistry",
+                "Instrumentation",
+                "Experimental Design And Methodology",
+                "Electrochemistry",
+                "Chemical Analysis And Laboratory Techniques",
+                "Laboratory Design And Layout",
+                "Contaminant Transport Modeling",
+                "Water Disinfection Processes",
+                "Research Methodology And Experimental Design",
+                "Biochemistry",
+                "Laboratory Testing Methods",
+                "Surface Science",
+                "Chemical Spills And Contamination",
+                "Green Chemistry",
+                "Physics",
+                "Environmental Chemistry",
+                "Chemicals And Contaminants",
+                "Research Methodology",
+                "Disinfection Technology",
+                "Chemical Analysis",
+                "Chemical Analysis And Testing Methods",
+                "Contaminant Transport And Fate In Groundwater And Soil",
+                "Laboratory Equipment And Supplies",
+                "Atmospheric Chemistry And Transport Modeling",
+                "Chemistry",
+                "Chemical Analysis And Testing",
+                "Atmospheric Science",
+                "Electrolysis Of Water",
+                "Instrumentation And Control Engineering",
+                "Inorganic Chemistry",
+                "Instrumentation And Control Systems",
+                "Hydrochemistry",
+                "Volatile Organic Compounds",
+                "Field Testing Methods",
+                "Instrumentation And Automation Systems",
+                "Experimental Design And Data Analysis",
+                "Molecular Imprinting Technology",
+                "Electrostatic Precipitators"
+            ]
+        },
+        {
+            "name": "Atmospheric Science",
+            "subOptions": [
+                "Atmospheric Science And Meteorology",
+                "Atmospheric Chemistry And Meteorology",
+                "Meteorology",
+                "Meteorology And Climatology",
+                "Atmospheric Science And Meteorology"
+            ]
+        },
+        {
+            "name": "Health and Safety",
+            "subOptions": [
+                "Public Health",
+                "Epidemiology and Public Health",
+                "Health Impact Assessment",
+                "Occupational Health",
+                "Epidemiology",
+                "Industrial Hygiene And Occupational Health",
+                "Evaluation And Assessment",
+                "Industrial Hygiene",
+                "Occupational Health",
+                "Program Evaluation",
+                "Public Health And Epidemiology Related To Waterborne Diseases",
+                "Health Effects Of Contaminated Water",
+                "Sanitation And Hygiene",
+                "Laboratory Safety And Hygiene",
+                "Monitoring And Evaluation Frameworks",
+                "Public Health And Community Engagement",
+                "Public Health And Sanitation Engineering",
+                "Epidemiology And Statistical Analysis",
+                "Community Health And Development",
+                "Monitoring And Evaluation Techniques",
+                "Evaluation And Assessment Methods",
+                "Industrial Hygiene And Safety Practices",
+                "Performance Evaluation",
+                "Water And Sanitation Engineering",
+                "Monitoring And Data Analysis Techniques",
+                "Program Management And Implementation",
+                "Monitoring And Evaluation",
+                "Performance Metrics And Indicators",
+                "Performance Evaluation Techniques",
+                "Monitoring And Assessment Techniques",
+                "Occupational And Environmental Medicine",
+                "Monitoring And Evaluation Of Stp Performance",
+                "Public Health And Epidemiology",
+                "Technical Analysis And Evaluation",
+                "Public Health Policy",
+                "Technical Evaluation And Due Diligence",
+                "Public Health And Sanitation",
+                "Laboratory Safety",
+                "Performance Management",
+                "Public Health Policies And Regulations",
+                "Epidemiology And Disease Control",
+                "Community Health",
+                "Health Survey Methodology",
+                "Infection Control And Prevention",
+                "Sanitation Infrastructure And Technology",
+                "Performance Evaluation Of Esps",
+                "Public Health Policies And Interventions",
+                "Laboratory Management And Operations"
+            ]
+        },
+        {
+            "name": "Water Management and Quality",
+            "subOptions": [
+                "Water Conservation",
+                "Water Distribution Systems",
+                "Water Treatment Processes",
+                "Water Management And Conservation",
+                "Water Pollution Control",
+                "Water Quality Assessment",
+                "Water Quality Management",
+                "Water Quality Monitoring And Analysis",
+                "Water Quality Testing And Analysis",
+                "Water Resource Management",
+                "Water Treatment Technology",
+                "Phytorid Technology",
+                "Water Safety Plan Development",
+                "Water Quality Monitoring And Testing",
+                "Water Treatment Technologies",
+                "Industrial Pollution And Its Effects On Water Quality",
+                "Watershed Management",
+                "Water Management And Conservation",
+                "Chemical And Biological Treatment Processes",
+                "Water Infrastructure Development",
+                "Water Supply Systems",
+                "Chemical And Biological Treatment Methods",
+                "Water Quality Monitoring And Management",
+                "Technology And Innovation In Water Supply Systems",
+                "Water Conservation And Management",
+                "Water Supply Network Design And Operation",
+                "Regulatory Requirements For Drinking Water Treatment",
+                "Funding And Financing Mechanisms For Water Quality Improvement Projects",
+                "Phytorid Technology",
+                "Community Engagement And Participation In Water Quality Monitoring And Management",
+                "Phytoremediation",
+                "Water Management And Treatment",
+                "Water Governance",
+                "Water Resource Management",
+                "Surface Water Management",
+                "Groundwater Treatment Technology",
+                "Coastal Management",
+                "Water Resources Engineering",
+                "Marketing And Communication Strategies For Water Treatment Products",
+                "Beach Resort Management",
+                "Regulatory Compliance In Water Management",
+                "Fisheries Management",
+                "Water Resources Management",
+                "Policy And Policy And Regulatory Frameworksrelated To Safe Drinking Water Supply",
+                "Chemical Management And Regulation",
+                "Sustainable Water Resource Management",
+                "Chemical Dosing And Treatment Optimization",
+                "Water Distribution System Design And Operation",
+                "Water Quality Analysis And Monitoring",
+                "Water Treatment And Management",
+                "Water Supply System",
+                "Water Quality Assessment",
+                "Phyto-Remediation",
+                "Water Treatment Processes And Technologies",
+                "Water Quality Monitoring Techniques And Methods",
+                "Sustainable Water Management",
+                "Integrated Water Resource Management Approaches",
+                "Water Treatment And Analysis",
+                "Coastal Zone Management",
+                "Water Treatment Technologies And Processes",
+                "Groundwater Remediation",
+                "Water Quality Testing Methods And Techniques",
+                "Water Quality Monitoring And Data Management",
+                "Coastal Hazard Mitigation",
+                "Water Quality Management",
+                "Water Resource Management And Conservation",
+                "Air And Water Pollution Control",
+                "Water Management",
+                "Phytorid Technology And Its Application In Sewage Treatment",
+                "Air And Water Quality Monitoring And Management",
+                "Water Quality Monitoring And Assessment",
+                "Household Water Storage Systems",
+                "Water Conservation And Reuse Strategies",
+                "Water Security",
+                "Water Treatment",
+                "Water Policy And Governance",
+                "Biological Treatment Systems",
+                "Water Supply And Sewerage Systems Design",
+                "Agricultural Practices And Their Impact On Water Quality",
+                "Water Treatment Systems",
+                "Water Quality Analysis",
+                "Water And Wastewater Quality Analysis",
+                "Water Quality Monitoring",
+                "Water Quality Testing",
+                "Water Conservation And Efficiency Measures",
+                "Water Distribution System Maintenance And Repair",
+                "Water Treatment And Purification Methods",
+                "Water Quality",
+                "Water Resource Management Strategies And Policies",
+                "Chemical Handling And Dosing",
+                "Water Treatment And Purification",
+                "Water Resources And Quality"
+            ]
+        },
+        {
+            "name": "Environmental Management",
+            "subOptions": [
+                "Environmental Impact Assessment",
+                "Environmental Compliance",
+                "Sustainable Development",
+                "Environmental Health and Safety",
+                "Environmental Management Systems",
+                "Environmental Monitoring And Assessment",
+                "Socio-economic Impact Assessment",
+                "Landfill Management",
+                "Natural Resource Management",
+                "Sustainability And Green Technology",
+                "Sustainability And Green Technologies",
+                "Health And Safety Management",
+                "Environmental Risk Assessment",
+                "Environmental Management",
+                "Toxicology And Risk Assessment",
+                "Sustainable Tourism Development",
+                "Toxicology",
+                "Health And Safety Practices",
+                "Environmental Monitoring And Sampling",
+                "Ecotoxicology",
+                "Sustainable Development And Conservation",
+                "Environmental Management Plan Emp",
+                "Public Health And Safety",
+                "Environmental Monitoring And Data Analysis",
+                "Sustainable Development And Environmental Management",
+                "Economic Analysis And Feasibility Studies",
+                "Pubic Health And Safety",
+                "Site Inspection And Assessment",
+                "Human Resources Management",
+                "Financial Analysis And Cost-Benefit Analysis",
+                "Cost-Benefit Analysis",
+                "Environmental Health Risk Assessment",
+                "Financial Accounting And Reporting",
+                "Sustainable Development And Social Responsibility In Bio-Mining Operations",
+                "Financial Analysis And Budgeting",
+                "Sustainability And Circular Economy Principles",
+                "Eco-Rejuvenation Technology",
+                "Economic Analysis And Modeling",
+                "Sustainability And Corporate Social Responsibility",
+                "Tourism And Hospitality Management",
+                "Environmental Auditing Techniques",
+                "Financial Management And Budgeting",
+                "Green Business And Entrepreneurship",
+                "Healthcare Management",
+                "Environmental Economics And Cost-Benefit Analysis",
+                "Inspection Techniques And Methodologies",
+                "Techno-Economic Analysis",
+                "Healthcare And Medical Supplies",
+                "Financial And Economic Analysis",
+                "Environmental Health And Safety",
+                "Financial Analysis",
+                "Sustainable Development Practices",
+                "Ecological Impact Assessment",
+                "Landfill Design",
+                "Budgeting And Cost Estimation",
+                "Health And Safety",
+                "Socioeconomic And Community Impacts",
+                "Landfill Management",
+                "Landfill Design And Management",
+                "Ecological Monitoring",
+                "Economic Analysis",
+                "Environmental Performance Measurement And Evaluation",
+                "Ecosystem Services Valuation",
+                "Cost Estimation And Budgeting",
+                "Environmental Management Systems Ems",
+                "Public Pubic Health And Safety",
+                "Circular Economy",
+                "Health And Safety Protocols",
+                "Cost-Benefit Analysis And Economic Evaluation",
+                "Budgeting And Forecasting",
+                "Environmental Management Systems And Practices",
+                "Arsenic Toxicity And Health Effects",
+                "Biodiversity Monitoring",
+                "Ecological Data Analysis",
+                "Landfill Engineering",
+                "Tourism Management",
+                "Mercury Monitoring And Analysis",
+                "Human Health Risk Assessment",
+                "Landfill Operations And Management",
+                "Public Health And Safety Considerations",
+                "Public Health And Safety Protocols",
+                "Budgeting And Financial Planning",
+                "Resource Management",
+                "Environmental Monitoring And Auditing",
+                "Cost Analysis And Budgeting",
+                "Landfill Design And Construction",
+                "Health And Safety In The Workplace",
+                "Cost Estimation And Analysis",
+                "Financial Management",
+                "Ecosystem Services",
+                "Mercury Contamination And Its Effects On The Environment",
+                "Environmental Sampling And Analysis",
+                "Financial Analysis And Forecasting",
+                "Arsenic And Iron Removal Processes",
+                "Sustainable Development And Resource Management",
+                "Landfill Closure And Remediation",
+                "Environmental Toxicology",
+                "Economics And Financial Analysis",
+                "Sustainable Development And Planning",
+                "Pubic Health And Safety And Compliance",
+                "Environmental Management Systems And Policies",
+                "Corporate Social Responsibility",
+                "Economic Feasibility Analysis",
+                "Health And Safety Considerations",
+                "Financial Management And Accounting",
+                "Sustainable Development",
+                "Iron Removal Processes",
+                "Environmental Monitoring And Analysis",
+                "Safety And Health Management",
+                "Financial Analysis And Planning",
+                "Environmental Pubic Health And Safety",
+                "Ecological Assessment",
+                "Cost-Benefit Analysis And Financial Planning",
+                "Environmental Risk Assessment And Management",
+                "Hospitality Management",
+                "Site Characterization And Monitoring",
+                "Financial Analysis And Due Diligence",
+                "Pubic Health And Safety And Practices",
+                "Financial Management And Reporting",
+                "Environmental Auditing And Reporting",
+                "Economic Analysis And Financial Management",
+                "Cost Analysis And Financial Planning",
+                "Employee Relations",
+                "Socioeconomic Impact Assessment",
+                "Sustainability And Social Responsibility",
+                "Cost Analysis",
+                "Budgeting And Financial Management",
+                "Sustainability And Sustainable Development Principles",
+                "Hr Information Systems",
+                "Biodiversity Assessment",
+                "Financial Analysis And Modeling",
+                "Site Assessment And Monitoring",
+                "Tourism And Heritage Site Management",
+                "Sustainable Development And Green Technologies",
+                "Health And Safety Standards",
+                "Pesticide Chemistry And Toxicology",
+                "Cost Estimation",
+                "Environmental Economics",
+                "Biodiversity And Ecological Assessment",
+                "Environmental Monitoring And Sampling Techniques"
+            ]
+        },
+        {
+            "name": "Ecology and Conservation",
+            "subOptions": [
+                "Ecology",
+                "Biodiversity Conservation and Management",
+                "Wetland Restoration And Conservation",
+                "Conservation Biology",
+                "Wildlife Management",
+                "Marine Biology",
+                "River Ecology",
+                "Wildlife Conservation",
+                "Cultural Heritage Preservation",
+                "Policy And Policy And Regulatory Frameworksfor Wildlife Protection And Management",
+                "Habitat Assessment",
+                "Vegetation And Tree Assessment",
+                "Wildlife Behavior And Population Dynamics",
+                "Ecological Restoration And Reforestation",
+                "Heritage Conservation And Management",
+                "Habitat Assessment And Restoration",
+                "Marine Conservation",
+                "Pest And Disease Management",
+                "Biodiversity Conservation And Management",
+                "Cultural Heritage And Archaeology",
+                "Marine Pollution",
+                "Aquatic Ecology",
+                "Wildlife Biology And Conservation",
+                "Marine Ecology",
+                "Wildlife Biology",
+                "Conservation Strategies",
+                "Monitoring And Evaluation Of Ecological Restoration Projects",
+                "Social And Cultural Anthropology",
+                "Forestry And Arboriculture",
+                "River Ecology",
+                "Forestry And Agroforestry",
+                "Mosquito Biology And Behavior",
+                "Mangrove Ecology And Biology",
+                "Cultural Heritage Management",
+                "Marine Ecology And Biodiversity",
+                "Wetland Ecology",
+                "Chemistry Of Mosquito Repellents",
+                "Terrestrial Ecology",
+                "Habitat Fragmentation And Degradation",
+                "Ecological Restoration",
+                "Archaeology And Cultural Heritage",
+                "Pest Management",
+                "Resource Conservation",
+                "Marine Technology",
+                "Restoration Ecology",
+                "Ecosystem Restoration",
+                "Aquatic Biology",
+                "Wildlife Biology And Ecology",
+                "Biodiversity Conservation",
+                "Wildlife Management",
+                "Legal And Policy And Regulatory Frameworksfor Heritage Protection",
+                "Marine Geology",
+                "Anthropology"
+            ]
+        },
+        {
+            "name": "Geosciences",
+            "subOptions": [
+                "Geology",
+                "Geochemistry",
+                "Geophysics",
+                "Limnology",
+                "Geology And Soil Science",
+                "Groundwater Hydrology",
+                "Groundwater Modeling",
+                "Groundwater Monitoring",
+                "Hydrogeology",
+                "Soil And Land Management",
+                "Soil Sampling And Analysis",
+                "Soil Science",
+                "Soil Conservation",
+                "Sustainable Land Management Practices",
+                "Soil Remediation Techniques",
+                "Engineering Geology",
+                "Hydrology And Drainage Systems",
+                "River Hydrology And Hydraulics",
+                "Soil And Contaminated Land Assessment",
+                "Sustainable Agriculture Practices",
+                "Soil Mechanics",
+                "Agricultural Practices",
+                "Sustainable Agriculture And Farming Practices",
+                "Soil Sampling And Analysis",
+                "Hydrology And Water Resources",
+                "Remediation System Design And Operation",
+                "Geochemistry",
+                "Biogeography",
+                "Soil Quality Monitoring And Assessment",
+                "Structural Geology",
+                "Agricultural Practices And Crop Management",
+                "Soil Science And Agricultural Practices",
+                "Bioinformatics",
+                "Hydrology And Hydrogeology",
+                "Agricultural Practices And Irrigation",
+                "Sampling And Analysis",
+                "Sampling And Laboratory Techniques",
+                "Soil Science And Soil Fertility",
+                "Radiochemistry",
+                "Soil Science And Soil Conservation",
+                "Geology And Soil Science",
+                "Sustainable Land Management",
+                "Soil Science And Land Management",
+                "Environmental Remediation Technologies",
+                "Groundwater Modeling And Simulation",
+                "Adsorption Technology",
+                "Geology",
+                "Geology And Geophysics",
+                "Soil Analysis",
+                "Soil Science And Irrigation",
+                "Soil Quality Assessment",
+                "Hydrology And Water Resource Modeling",
+                "Remediation Technologies",
+                "Hydrological Analysis",
+                "Sampling And Collection Methods",
+                "Gis And Remote Sensing Techniques For Mapping And Monitoring Groundwater Quality",
+                "Soil Science And Soil Health Management",
+                "Groundwater Hydrogeology",
+                "Geophysics",
+                "Soil Science And Land Treatment Systems",
+                "Groundwater Hydrology And Geology",
+                "Groundwater Monitoring",
+                "Stable Isotopes In Groundwater",
+                "Sampling Techniques And Protocols",
+                "Soil Remediation Techniques And Technologies",
+                "Soil And Groundwater Sampling And Analysis",
+                "Soil Science And Management",
+                "Soil Science And Nutrient Management",
+                "Agricultural Practices And Irrigation Systems",
+                "Sampling Techniques",
+                "Hydrogeology And Groundwater Management",
+                "Site Investigation And Remediation Techniques",
+                "Geology And Hydrogeology",
+                "Soil Science And Soil Mechanics",
+                "Biosafety And Biosecurity",
+                "Adsorption Processes",
+                "Complex Sample Compositions",
+                "Remediation Technologies",
+                "Cow Dung Processing And Utilization",
+                "Soil And Water Quality Analysis",
+                "Sample Preparation",
+                "Groundwater And Soil Quality Monitoring Techniques",
+                "Stratigraphy",
+                "Hydrology And Water Resource Management",
+                "Soil Quality Monitoring",
+                "Crop Science And Agricultural Practices",
+                "Groundwater Modeling",
+                "Hydrology And Irrigation",
+                "Agriculture",
+                "Remediation Technologies And Techniques",
+                "Water Management And Irrigation",
+                "Water Quality And Hydrology",
+                "Sedimentology",
+                "Remediation Techniques",
+                "Remediation Technologies And Strategies",
+                "Hydrology And Water Resources Management",
+                "Sustainable Agriculture And Forestry",
+                "Agricultural Science",
+                "Groundwater Sampling And Analysis",
+                "Land Treatment Systems",
+                "Agricultural Practices And Crop Residue Management",
+                "Biostatistics",
+                "Hydrology",
+                "Soil Science And Soil Management",
+                "Environmental Remediation"
+            ]
+        },
+        {
+            "name": "Chemical Engineering",
+            "subOptions": [
+                "Process Engineering",
+                "Catalysis",
+                "Industrial Emissions Control Technologies",
+                "Industrial Pollution Control",
+                "Industrial Ecology",
+                "Industrial Processes",
+                "Industrial Automation And Control Systems",
+                "Process Engineering",
+                "Pollution Control Measures",
+                "Industrial Process Design And Optimization",
+                "Process Control",
+                "Separation Processes",
+                "Process Engineering And Optimization",
+                "Industrial Pollution",
+                "Pollution Mitigation Techniques",
+                "Industrial Emissions Control",
+                "Pollution Control And Prevention",
+                "Emission Control Technologies",
+                "Emissions Control Technology",
+                "Emissions Monitoring And Control",
+                "Industrial Emissions Control Technologies",
+                "Carbon Emissions Reduction Strategies",
+                "Industrial Processes And Emissions Control Technologies",
+                "Emissions Monitoring And Testing",
+                "Carbon Capture And Storage",
+                "Carbon Footprint Assessment Methodologies",
+                "Process Optimization And Control",
+                "Industrial Pollution Control",
+                "Mitigation Strategies",
+                "Industrial Processes And Emissions",
+                "Catalysis",
+                "Industrial Emissions Monitoring",
+                "Pollution Control Regulations And Compliance",
+                "Industrial Process Engineering",
+                "Emission Reduction Technologies",
+                "Sensor Fabrication And Optimization",
+                "Emissions Control",
+                "Process Optimization",
+                "Industrial Emissions",
+                "Process Optimization And Efficiency",
+                "Process Control And Optimization",
+                "Pollution Control",
+                "Process Safety"
+            ]
+        },
+        {
+            "name": "Civil Engineering",
+            "subOptions": [
+                "Hydraulic Engineering",
+                "Geotechnical Engineering",
+                "Transportation Engineering",
+                "Urban Planning and Design",
+                "Environmental Engineering",
+                "Land Use Planning",
+                "Environmental Engineering",
+                "Civil Engineering And Construction",
+                "Geotechnical Engineering And Site Assessment",
+                "Transportation And Logistics",
+                "Road Engineering And Construction",
+                "Construction And Engineering Principles",
+                "Chemical Engineering",
+                "Geotechnical Engineering And Site Characterization",
+                "Landscape Planning And Design",
+                "Urban Planning",
+                "Environmental Engineering And Technology",
+                "Road Construction",
+                "Logistics And Supply Chain Management",
+                "Geology And Geotechnical Engineering",
+                "Naval Engineering And Infrastructure",
+                "Petrochemical Industry",
+                "Landscape Architecture And Design",
+                "Urban Planning And Landscape Architecture",
+                "Metallurgy",
+                "Urban Planning And Transportation Systems",
+                "Urban Planning And Land Use Management",
+                "Urban Planning And Development",
+                "Supply Chain Compliance",
+                "Petroleum Engineering",
+                "Chemical Transportation Safety",
+                "Building Construction",
+                "Smart City Development And Planning",
+                "Environmental Science",
+                "Urban Development",
+                "Supply Chain Management",
+                "Infrastructure Design And Construction",
+                "Traffic Management And Flow In Urban Areas",
+                "Land Use And Zoning Regulations",
+                "Ecology And Environmental Science",
+                "Land Use Planning And Management",
+                "Traffic Engineering",
+                "Environmental Science And Ecology",
+                "Traffic Management",
+                "Petrology",
+                "Engineering And Infrastructure",
+                "Transportation Planning",
+                "Engineering Principles And Practices",
+                "Infrastructure And Transportation Planning",
+                "Chemical Process Engineering And Safety",
+                "Civil",
+                "Architecture",
+                "Land Acquisition And Zoning Regulations",
+                "Civil Engineering",
+                "Agricultural Engineering And Technology",
+                "Construction And Engineering Regulations",
+                "Environmental Report Writing",
+                "Green Building And Construction",
+                "Green Infrastructure And Urban Planning",
+                "Traffic Engineering And Management",
+                "Chemical Engineering And Process Design",
+                "Environmental Technology And Innovation",
+                "Transportation Planning And Engineering",
+                "Agricultural Engineering",
+                "Landscape Design",
+                "Petroleum Chemistry And Properties",
+                "Utilisation Plans",
+                "Railway Operations And Logistics",
+                "Civil Engineering And Construction Management",
+                "Environmental Engineering And Sustainability",
+                "Sustainable Transportation And Mobility",
+                "Construction Management",
+                "Environmental Engineering",
+                "Landscape Architecture",
+                "Environmental Engineering And Science",
+                "Urban And Regional Planning",
+                "Chemistry And Chemical Engineering",
+                "Heavy Metal Analysis",
+                "Environmental Science And Engineering",
+                "Urban Planning And Transportation",
+                "Petrography",
+                "Pipeline Design And Construction"
+            ]
+        },
+        {
+            "name": "Materials Science and Engineering",
+            "subOptions": [
+                "Materials Science",
+                "Nanotechnology",
+                "Material Science And Engineering",
+                "Refractory Materials",
+                "Material Science And Nanotechnology",
+                "Polymer Science",
+                "Material Science",
+                "Nanomaterials Characterization Techniques",
+                "Materials Science And Engineering",
+                "Polymer Chemistry",
+                "Nanomaterials Synthesis Techniques"
+            ]
+        },
+        {
+            "name": "Electrical and Mechanical Engineering",
+            "subOptions": [
+                "Electrical Engineering",
+                "Mechanical Engineering",
+                "Sensor Technology and Data Collection",
+                "Renewable Energy Technologies",
+                "Industrial Engineering",
+                "Renewable Energy Policies And Regulations",
+                "Thermal Engineering",
+                "Energy Efficiency",
+                "Mechanical Engineering And Design",
+                "Industrial Biotechnology",
+                "Cement Manufacturing",
+                "Energy Management",
+                "Industrial Design",
+                "Engineering",
+                "Thermal Power Generation",
+                "Energy And Resource Management",
+                "Renewable Energy Policy And Regulations",
+                "Industrial Plant Design",
+                "Thermal Power Plants",
+                "Power Plant Emissions",
+                "Energy Recovery Technologies",
+                "Energy-Efficient And Sustainable Design Principles",
+                "Paper-Based Sensors",
+                "Good Manufacturing",
+                "Energy Storage Systems",
+                "Energy And Transportation Systems",
+                "Energy Policy And Regulations",
+                "Solar Pv Technology",
+                "Power Generation And Distribution",
+                "Resource Recovery Technologies",
+                "Renewable Energy Sources",
+                "Bio-Cng Production Process",
+                "Renewable Energy And Energy Efficiency",
+                "Structural Engineering",
+                "Renewable Energy Technologies",
+                "Gas Storage And Compression Systems",
+                "Biotechnology",
+                "Energy Efficiency And Sustainability",
+                "Energy Generation And Utilization Systems",
+                "Ready-Mix Concrete Rmc Plants",
+                "Power Plant Engineering",
+                "Online Sensor Technology",
+                "Energy And Environmental Sustainability Assessment",
+                "Solar Thermal Systems",
+                "Energy Engineering",
+                "Energy Efficiency And Renewable Energy Technologies",
+                "Renewable Energy",
+                "Automotive Engineering And Design",
+                "Renewable Energy And Green Technology",
+                "Photovoltaic Pv Systems",
+                "Solar Energy Systems",
+                "Power Plant Operations And Maintenance",
+                "Energy Production And Distribution",
+                "Engineering Mechanical",
+                "Mechanical And Electrical Engineering",
+                "Energy Efficiency And Conservation Strategies",
+                "Energy Efficiency And Renewable Energy",
+                "Electrical Engineering And Control Systems",
+                "Engineering Design",
+                "Heat Transfer",
+                "Energy And Power Generation",
+                "Electrical And Mechanical Engineering",
+                "Electrical",
+                "Hybrid Power Systems",
+                "Energy Efficiency And Conservation",
+                "Energy And Resource Efficiency"
+            ]
+        },
+        {
+            "name": "Information Technology and Data Science",
+            "subOptions": [
+                "Data Analysis and Statistics",
+                "Geographic Information Systems And Remote Sensing",
+                "Information Technology And Software Development",
+                "Decision Support Systems",
+                "Internet of Things",
+                "Data Science and Analytics",
+                "Database Management",
+                "Sensor Technology And Data Collection",
+                "Product Development",
+                "Product Development And Testing",
+                "Geographic Information Systems And Mapping",
+                "Data Analysis And Statistical Methods",
+                "Statistics",
+                "Geographic Information Systems",
+                "Product Development And Optimization",
+                "Surveying And Mapping",
+                "Statistical Analysis And Data Interpretation",
+                "Topographic Mapping And Surveying",
+                "Data Analysis And Reporting Tools",
+                "Decision-Making Processes",
+                "Geographic Information System Gis",
+                "Data Analysis And Statistics",
+                "Data Collection And Analysis",
+                "Gis Mapping And Analysis",
+                "Data Analysis And Interpretation",
+                "Programming And Software Development",
+                "Remote Sensing",
+                "Image Processing And Interpretation",
+                "Geographical Information Systems Gis",
+                "Data Analytics And Visualization",
+                "Data Analysis And Management",
+                "Data Mining",
+                "Geographical Information Systems",
+                "Geographic Information Systems And Spatial Analysis",
+                "Statistical Analysis",
+                "Data Analysis And Statistical Modeling",
+                "Field Research Methods",
+                "Internet Of Things Iot Technology",
+                "Geography And Demographics",
+                "Data Visualization",
+                "Geography",
+                "Data Analysis And Reporting",
+                "Remote Sensing And Gis Mapping",
+                "Product Design And Development",
+                "Data Science",
+                "Photogrammetry And Remote Sensing",
+                "Design And Technology",
+                "Statistical Analysis And Modeling",
+                "Statistical Analysis And Modeling Techniques",
+                "Field Survey Techniques",
+                "User-Centered Design And Human Factors",
+                "Research And Innovation",
+                "Statistical Analysis And Data Interpretation",
+                "Internet Of Things Iot Technology And Applications",
+                "Data Analysis",
+                "3D Modeling And Visualization",
+                "Data Analysis And Geographic Information Systems",
+                "Business Model Development",
+                "Geographic Information System Gis And Remote Sensing",
+                "Data Collection And Management",
+                "Packaging And Design",
+                "Data Interpretation",
+                "Remote Sensing And Gis",
+                "Data Management",
+                "Data Analysis And Modeling",
+                "Data Processing And Analysis",
+                "Data Analysis And Interpretation Skills",
+                "Surveying",
+                "Data Science And Machine Learning",
+                "Geographic Information Systems And Remote Sensing",
+                "Innovation And Entrepreneurship",
+                "Data Analysis And Visualization",
+                "Business And Entrepreneurship",
+                "Decision Support Systems Dss",
+                "Gis And Remote Sensing",
+                "Data Management And Analysis",
+                "Data Management And Reporting",
+                "Data Analysis And Statistical Methods",
+                "Geographic Information Systems And Remote Sensing",
+                "Data Analysis And Statistics",
+                "Quantitative Analysis",
+                "Database Management And Development",
+                "Statistical Analysis And Interpretation Of Data",
+                "Data Analysis And Interpretation",
+                "Service-Based Business Models",
+                "Technology And Innovation",
+                "Gis Geographic Information System",
+                "Data Analysis And Modeling",
+                "Scenario-Based Analysis"
+            ]
+        },
+        {
+            "name": "Biology",
+            "subOptions": [
+                "Botany",
+                "Microbiology",
+                "Zoology",
+                "Genetics",
+                "Marine Biology",
+                "Virology",
+                "Environmental Microbiology",
+                "Vermicomposting",
+                "Botany",
+                "Oceanography",
+                "Microbiology And Microbial Ecology",
+                "Zoology",
+                "Microbial Ecology And Diversity In Bio-Mining Systems",
+                "Microbial Ecology",
+                "Microbiology And Waterborne Pathogens",
+                "Molecular Biology And Dna Analysis",
+                "Microbial Ecology And Physiology",
+                "Coastal Engineering And Oceanography",
+                "Microbial Metabolism And Biochemistry In Bio-Mining",
+                "Microbiology",
+                "Molecular Identification Techniques"
+            ]
+        },
+        {
+            "name": "Waste Management and Recycling",
+            "subOptions": [
+                "Solid Waste Management",
+                "Hazardous Waste Management",
+                "Waste Reduction and Recycling",
+                "Waste-to-energy Technologies",
+                "Hazardous Materials Handling And Storage",
+                "Waste Characterization And Quantification",
+                "Waste Management And Disposal",
+                "Waste Processing Technology",
+                "Wastewater Treatment",
+                "Waste Management Infrastructure",
+                "Sludge Management",
+                "Waste Characterization And Hazardous Materials",
+                "Wastewater Treatment Technologies",
+                "Effluent Characterization And Analysis",
+                "Waste Management And Recycling",
+                "Treatment And Disposal Technologies For Solid And Hazardous Waste",
+                "Waste Reduction Strategies",
+                "Sewage Treatment Processes And Technologies",
+                "Health And Safety Protocols For Hazardous Materials",
+                "Effluent Treatment Plant",
+                "Segregation And Storage Of Waste",
+                "Wastewater Treatment Technology",
+                "Hazardous Waste Regulations",
+                "Hospital Wastewater Characteristics And Composition",
+                "Hazardous Materials Handling And Storage",
+                "Policy And Policy And Regulatory Frameworksfor Wastewater Management",
+                "Ammonia Storage And Handling",
+                "Hazardous Waste Management",
+                "Effluent Treatment Technologies",
+                "Waste Treatment Technologies",
+                "Waste-To-Energy Technologies",
+                "Water And Wastewater Management",
+                "Sludge Quality Assessment",
+                "Membrane Filtration Systems",
+                "Waste Management And Disposal Practices",
+                "Hazardous Waste Disposal",
+                "Waste Management And Disposal Techniques",
+                "Wastewater Treatment Technologies And Processes",
+                "Hazardous Materials Handling",
+                "Waste Management",
+                "Waste Water Treatment And Management",
+                "Waste Water Treatment Technologies",
+                "Waste Collection And Transportation Systems",
+                "Waste Water Treatment",
+                "Municipal Solid Waste Msw Processing",
+                "Sewage Sludge Characterization And Analysis",
+                "Hazardous Waste Management And Disposal",
+                "Public Awareness And Education On Waste Management",
+                "Health And Safety Protocols For Construction And Operation",
+                "Industrial Wastewater Treatment",
+                "Collection And Transportation Of Solid And Hazardous Waste",
+                "Hazardous Waste Regulations And Compliance",
+                "Recycling And Resource Recovery From Waste",
+                "Construction And Demolition Waste Management",
+                "Recycling Technologies",
+                "Waste Management",
+                "Sewage Treatment Plant Design",
+                "Municipal Waste Management",
+                "Sewage Treatment Plant",
+                "Effluent Disposal",
+                "Industrial Waste Management",
+                "Filtration And Membrane Technologies",
+                "Wastewater Treatment Processes",
+                "Sewage Treatment",
+                "Waste Processing Technologies",
+                "Municipal Solid Waste Management",
+                "Chemical And Biological Analysis Of Wastewater",
+                "Waste Management And Disposal Methods",
+                "Waste Land Management",
+                "Wastewater Treatment",
+                "Effluent Treatment Plant Design",
+                "Hazardous Materials Management",
+                "Wastewater Treatment Processes And Technologies",
+                "Herbal Medicine And Plant Extracts",
+                "Industrial Wastewater Management",
+                "Waste Disposal And Treatment Technologies",
+                "Economic Analysis And Cost-Benefit Analysis For Wastewater Management Projects",
+                "Industrial Processes And Waste Management",
+                "Solid Waste Management Policies And Regulations",
+                "Waste Management And Disposal",
+                "Sewage Treatment Plants",
+                "Biomedical Waste Management",
+                "Waste Disposal And Treatment Methods",
+                "Plastic Waste Management",
+                "Agricultural Waste Management",
+                "Monitoring And Evaluation Of Waste Management Programs"
+            ]
+        },
+        {
+            "name": "Mining Engineering",
+            "subOptions": [
+                "Mine Closure Planning And Execution",
+                "Mining And Mineral Processing",
+                "Coal Mining And Its Impact On The Environment",
+                "Mining Operations And Processes",
+                "Monitoring And Reporting Of Closure Activities",
+                "Biogeochemical Cycling In Bio-Mining Systems",
+                "Stone Crushing Industry Operations And Processes",
+                "Geology And Mining",
+                "Analytical Techniques For Characterizing Bio-Mining Samples E.G. Xrd,Sem,Tem,Icp-Ms",
+                "Archaeology And Excavation Techniques",
+                "Expansion Of Gare Pelma Sector Iii Coal Block",
+                "Biogeochemistry",
+                "Bioremediation Strategies For Bio-Mining Waste Streams",
+                "Bioreactor Design And Optimization For Bio-Mining",
+                "Closure Planning And Implementation",
+                "Expansion Of Talaipalli Coal Block",
+                "Mineralogy And Geochemistry Of Bio-Mining Samples",
+                "Expansion Of Parsa East And Kanta Basan Coal Block",
+                "Biosensors",
+                "Mineralogy",
+                "Coal Mining And Extraction Processes",
+                "Bio-Mining Techniques And Processes",
+                "Environmental Monitoring And Impact Assessment Of Bio-Mining Operations"
+            ]
+        },
+        {
+            "name": "Policy and Regulation",
+            "subOptions": [
+                "Environmental Policy and Governance",
+                "Policy and Regulatory Compliance",
+                "Social Impact Assessment",
+                "Community Development and Engagement",
+                "Environmental Policy",
+                "Policy And Governance",
+                "Policy And Regulatory Frameworks",
+                "Land Reclamation",
+                "Environmental Policy And Regulations Related To Air Quality",
+                "Environmental Regulations And Policies",
+                "Public Policy And Governance",
+                "Safety Regulations And Compliance",
+                "Environmental Policy Development And Implementation",
+                "Risk Management Compliance",
+                "Public Perception And Communication",
+                "Consumer Behavior And Preferences",
+                "Food Safety Regulations And Policies",
+                "Stakeholder Engagement And Coordination",
+                "Risk Management And Mitigation Strategies",
+                "Environmental And Safety Regulations",
+                "Environmental Policy And Planning",
+                "Environmental Regulations And Standards",
+                "Social Impact Assessment",
+                "Environmental Law And Policy",
+                "Stakeholder Engagement And Communication",
+                "Project Risk Assessment And Mitigation Strategies",
+                "Communication And Stakeholder Engagement",
+                "Legal Compliance",
+                "Policy And Regulations",
+                "Marine Policy And Governance",
+                "Hazard Analysis",
+                "Regulatory Compliance And Policy",
+                "Standardization Frameworks",
+                "Public Policy And Regulations Related To Air Pollution",
+                "Environmental Policy And Management",
+                "Government Policies And Regulations",
+                "Regulatory Compliance And Standards",
+                "Food Science",
+                "Collaboration And Partnerships",
+                "Public Policy And Advocacy",
+                "Community Engagement And Communication",
+                "Regulatory Compliance And Permitting",
+                "Communication And Advocacy",
+                "Sustainability And Social Impact Assessment",
+                "Regulatory Compliance And Environmental Policy",
+                "Communication And Outreach Strategies",
+                "Rural Development And Community Engagement",
+                "Disaster Risk Reduction And Management",
+                "Regulatory Knowledge",
+                "Crisis Management",
+                "Risk Assessment And Mitigation Strategies",
+                "Collaboration And Stakeholder Engagement",
+                "Risk Management And Assessment",
+                "Risk Management And Contingency Planning",
+                "Risk Assessment And Mitigation",
+                "Regulatory Compliance",
+                "Stakeholder Engagement And Communication Strategies",
+                "Environmental Policy And Regulations",
+                "Community Engagement And Stakeholder Management",
+                "Risk Assessment And Mitigation",
+                "Safety Regulations",
+                "Community Participation And Sustainable Development",
+                "Environmental Policy And Regulation",
+                "Policy And Regulation",
+                "Community Engagement And Advocacy",
+                "Stakeholder Analysis And Management",
+                "Social Impact Assessment",
+                "Environmental Regulations",
+                "International Environmental Agreements And Conventions",
+                "Aviation Regulations And Compliance",
+                "Legal And Regulatory Compliance",
+                "Forest Conservation Act And Related Regulations",
+                "Public Awareness And Education On Air Pollution And Its Mitigation",
+                "Community Engagement And Outreach",
+                "Communication And Stakeholder Engagement",
+                "Environmental Laws And Regulations",
+                "Food And Beverage Production Processes",
+                "Regulatory Compliance",
+                "Interdisciplinary Collaboration",
+                "Legal And Policy And Regulatory Framework",
+                "Stakeholder Engagement Skills",
+                "Research Ethics And Regulatory Compliance",
+                "Stakeholder Engagement And Capacity Building",
+                "Stakeholder Engagement And Participation",
+                "Regulatory Compliance And Reporting",
+                "Nutrition",
+                "Leadership And Management",
+                "Safety And Security",
+                "Legal And Contractual Obligations",
+                "Regulatory Framework For Air Quality Management",
+                "Public Policy",
+                "Emergency Response And Preparedness",
+                "Sustainability And Cost-Effectiveness Analysis",
+                "Collaboration And Coordination",
+                "Air Quality Management",
+                "Regulatory Compliance And Policy Analysis",
+                "Community Engagement And Participation",
+                "Legal And Policy And Regulatory Frameworksfor Environmental Compliance",
+                "National And International Air Quality Standards And Regulations",
+                "Policy And Regulations Related To Air Quality",
+                "Regulatory Compliance And Certification",
+                "Community Development",
+                "Stakeholder Management And Community Engagement",
+                "Stakeholder Engagement And Public Participation",
+                "Risk Assessment And Management",
+                "Sustainability And Environmental Impact Assessment",
+                "Food And Beverage Management",
+                "Environmental Sustainability",
+                "Permitting And Regulatory Compliance",
+                "Water Policy And Regulation",
+                "Legal And Contractual Obligations",
+                "Environmental Regulations And Policies",
+                "Policy Analysis",
+                "Legal And Contractual Requirements For Escrow Accounts",
+                "Environmental Law And Litigation",
+                "Policy And Governance",
+                "Consumer Behavior And Water Usage Patterns",
+                "Stakeholder Engagement And Community Participation",
+                "Regulatory And Policy Framework",
+                "Corporate Governance Compliance",
+                "Stakeholder Engagement And Facilitation",
+                "Public Policy And Governance",
+                "Government Policies And Procedures",
+                "Regulatory Compliance And Permitting",
+                "Environmental Law And Regulations",
+                "Health And Safety Compliance",
+                "Policy And Regulatory",
+                "Legal And Contractual Requirements",
+                "Environmental Law",
+                "Risk Management",
+                "Safety And Regulatory Compliance",
+                "Mine Reclamation And Rehabilitation",
+                "Community Engagement And Social Responsibility",
+                "Risk Assessment",
+                "Policy And Governance",
+                "Policy And Governance Frameworks",
+                "Financial Regulations And Compliance",
+                "Stakeholder Engagement And Community Outreach",
+                "Safety Procedures",
+                "Land Reclamation And Restoration",
+                "Environmental Regulations And Compliance",
+                "Consumer Safety",
+                "Regulatory Compliance And Environmental Laws",
+                "Stakeholder Engagement",
+                "Disaster Management",
+                "Community Mobilization And Behavior Change Communication",
+                "Rural Development",
+                "Third-Party Certification Standards And Procedures",
+                "Environmental Management And Planning",
+                "Community Engagement And Participation",
+                "Sustainability Strategies",
+                "Stakeholder Engagement And Community Participation",
+                "Land Acquisition And Rehabilitation",
+                "Environmental Sustainability Practices",
+                "Environmental Science And Sustainability",
+                "Stakeholder Engagement And Public Consultation",
+                "Policy Analysis And Development",
+                "Sustainability And Environmental Impact",
+                "Environmental Sustainability And Impact Assessment",
+                "Safety And Security Regulations",
+                "Emergency Response Planning",
+                "Risk Assessment And Management",
+                "Risk Management Principles And Methodologies",
+                "Legal And Regulatory Frameworks",
+                "Public Administration And Governance",
+                "Government Regulations And Policies Related To Water Supply And Distribution",
+                "Regulatory Affairs",
+                "Sustainability And Social Aspects",
+                "Sustainability",
+                "Communication And Outreach",
+                "Community Engagement",
+                "Public Relations And Community Engagement",
+                "Environmental Planning And Management"
+            ]
+        },
+        {
+            "name": "Other",
+            "subOptions": [
+                "Carbon Sequestration",
+                "Bamboo Cultivation And Propagation Techniques",
+                "Bioremediation",
+                "Climate Change Adaptation And Mitigation",
+                "Combustion Science",
+                "Industrial Processes",
+                "Noise Pollution Control",
+                "Quality Control And Assurance",
+                "Procurement And Contract Management",
+                "Safety Engineering",
+                "Project Management And Implementation",
+                "Project Management And Scheduling",
+                "Project Management And Planning",
+                "Project Management",
+                "Climate Change Adaptation And Mitigation",
+                "Project Management And Communication",
+                "Manufacturing Processes Compliance",
+                "Project Management And Implementation Strategies",
+                "Project Management For Feasibility Study",
+                "Bioremediation Principles And Techniques",
+                "Project Management And Implementation",
+                "Quality Assurance And Control",
+                "Noise Pollution Monitoring And Control",
+                "Fire Science",
+                "Noise Pollution Control",
+                "Noise Pollution Monitoring",
+                "Climate Science And Modeling",
+                "Bioenergy And Biofuels",
+                "Fuel Blending And Its Impact On Combustion",
+                "Technical Assistance",
+                "Contract Management",
+                "Coal Combustion And Emissions",
+                "Biomass Conversion",
+                "Biocompatibility",
+                "Coal Gasification Technology",
+                "Project Management",
+                "Equipment Selection And Maintenance",
+                "Project Management And Planning",
+                "Climate Change Adaptation And Mitigation",
+                "Decontamination Methods And Technologies",
+                "Biomass Conversion Technologies",
+                "Solid Fuel Production",
+                "Noise Pollution Assessment",
+                "Climate Change Adaptation",
+                "Environmental Modeling",
+                "Climate Communication And Education",
+                "Quality Control Compliance",
+                "Biomass Energy",
+                "Fire Science And Technology",
+                "Quality Assurance",
+                "Emission Modeling",
+                "Carbon Chemistry",
+                "Odor Control",
+                "Quality Assurance And Control Processes",
+                "Industrial Safety",
+                "Radiation Safety",
+                "Audit And Assurance Methodologies And Standards",
+                "Fire Safety",
+                "Project Management And Budgeting",
+                "Climate And Weather Patterns In The Region",
+                "Odor Control Technology",
+                "Noise Pollution Monitoring And Assessment",
+                "Combustion Processes",
+                "Industrial Safety And Risk Management",
+                "Chemical And Industrial Processes",
+                "Hydrogen Production Technologies",
+                "Noise Pollution Monitoring And Management",
+                "Photo-Irradiation Technology",
+                "Project Management And Planning Skills",
+                "Industrial Process Monitoring",
+                "Environmental Modeling And Data Analysis",
+                "Bamboo Cultivation And Management",
+                "Noise And Vibration Assessment",
+                "Production Planning",
+                "Project Management And Coordination",
+                "Diesel Engine Technology",
+                "Fuel Chemistry And Properties",
+                "Audit And Inspection Compliance",
+                "Equipment Selection And Procurement",
+                "Procurement And Contract Management",
+                "Local Regulations And Industrial Processes",
+                "Climate Change And Adaptation",
+                "Rocket Stove Technology",
+                "Maintenance And Operations",
+                "Climate Science",
+                "Project Management And Planning",
+                "Climate Finance And Investment",
+                "Project Management And Coordination",
+                "Biodegradation Studies",
+                "Fire Suppression Techniques",
+                "Odor And Vocs Measurement Techniques",
+                "Chemical Composition Of Bamboo",
+                "Project Management And Implementation",
+                "Project Management And Implementation Skills",
+                "Co-Firing Technologies And Their Efficiency",
+                "Fuel Cell Technology",
+                "Procurement And Supply Chain Management",
+                "Air Quality And Noise Assessment",
+                "Project Management",
+                "Quality Assurance And Quality Control Measures",
+                "Research Design And Project Management",
+                "Quality Control",
+                "Biocomposting And Its Benefits",
+                "Mechanical Engineering And Equipment Selection",
+                "Decontamination Procedures",
+                "Sap-3 Project Management And Implementation",
+                "Equipment Maintenance And Calibration",
+                "Industrial Chemistry"
+            ]
+        },
+        {
+            "name": "Microfluidics",
+            "subOptions": [
+                "Microfluidics"
+            ]
+        },
+        {
+            "name": "Life Cycle Assessment",
+            "subOptions": [
+                "Life Cycle Assessment",
+                "Life Cycle Cost Analysis",
+                "Life Cycle Assessment Lca Methodology",
+                "Life Cycle Assessment And Sustainability Analysis"
+            ]
+        },
+        {
+            "name": "Embedded Systems Design",
+            "subOptions": [
+                "Embedded Systems Design",
+                "Instructional Design",
+                "Curriculum Development",
+                "Survey Design",
+                "Training Delivery Methods",
+                "Curriculum Design And Development",
+                "Curriculum Development And Instructional Design",
+                "Training And Development",
+                "Education And Training"
+            ]
+        },
+        {
+            "name": "Environmental Impact Assessment",
+            "subOptions": [
+                "Environmental Impact Assessment",
+                "Environmental Impact Assessment And Monitoring",
+                "Environmental Impact Assessment Methodology",
+                "Environmental Health And Impact Assessment"
+            ]
+        },
+        {
+            "name": "Anaerobic Digestion Process Optimization",
+            "subOptions": [
+                "Anaerobic Digestion Process Optimization",
+                "Anaerobic Digestion",
+                "Anaerobic Digestion Technology"
+            ]
+        },
+        {
+            "name": "Report Writing And Communication",
+            "subOptions": [
+                "Report Writing And Communication",
+                "Technical Report Writing And Presentation Skills",
+                "Technical Writing And Communication Skills",
+                "Technical Report Writing And Communication Skills",
+                "Effective Communication",
+                "Communication",
+                "Technical Report Writing And Documentation",
+                "Communication And Reporting",
+                "Communication And Report Writing",
+                "Technical Writing And Communication",
+                "Technical Writing",
+                "Communication And Presentation Skills",
+                "Communication Skills",
+                "Technical Report Writing",
+                "Communication And Presentation Skills For Reporting Findings And Recommendations",
+                "Report Writing And Presentation",
+                "Reporting And Documentation Requirements",
+                "Effective Communication And Reporting",
+                "Reporting And Documentation",
+                "Technical Writing And Documentation",
+                "Reporting And Communication"
+            ]
+        },
+        {
+            "name": "Agricultural Economics And Market Analysis",
+            "subOptions": [
+                "Agricultural Economics And Market Analysis",
+                "Economics",
+                "Market Analysis And Forecasting",
+                "Market Research And Analysis",
+                "Marketing And Sales Strategies",
+                "Communication And Marketing",
+                "Market Analysis And Demand Forecasting",
+                "Marketing And Promotions",
+                "Market Research And Analysis",
+                "Marketing And Communications",
+                "Market Analysis"
+            ]
+        },
+        {
+            "name": "Capacity Building",
+            "subOptions": [
+                "Capacity Building",
+                "Capacity Building And Training",
+                "Staffing And Training",
+                "Training And Capacity Building",
+                "Recruitment And Selection"
+            ]
+        },
+        {
+            "name": "Adult Learning Theory And Practice",
+            "subOptions": [
+                "Adult Learning Theory And Practice",
+                "Adult Learning Theory"
+            ]
+        },
+        {
+            "name": "Intellectual Property And Patenting",
+            "subOptions": [
+                "Intellectual Property And Patenting"
+            ]
+        },
+        {
+            "name": "Biogas Composition And Quality Analysis",
+            "subOptions": [
+                "Biogas Composition And Quality Analysis",
+                "Market Analysis For Biogas And Related Products",
+                "Biogas Production And Purification",
+                "Biogas Production Technology"
+            ]
+        },
+        {
+            "name": "Public Health",
+            "subOptions": [
+                "Public Health"
+            ]
+        },
+        {
+            "name": "Wireless Communication Protocols And Networks",
+            "subOptions": [
+                "Wireless Communication Protocols And Networks",
+                "Telecommunications Infrastructure",
+                "Wireless Sensor Networks",
+                "Low-Power Wide-Area Networks"
+            ]
+        },
+        {
+            "name": "Pyrolysis Process And Equipment",
+            "subOptions": [
+                "Pyrolysis Process And Equipment",
+                "Plasma Pyrolysis"
+            ]
+        },
+        {
+            "name": "Sinter Plant Operations And Processes",
+            "subOptions": [
+                "Sinter Plant Operations And Processes",
+                "Plant Biology And Horticulture",
+                "Plant Operation And Maintenance",
+                "Plant Physiology And Growth",
+                "Plant Capacity Assessment",
+                "Plant Physiology",
+                "Horticulture And Plantation",
+                "Plant Ecology",
+                "Horticulture",
+                "Plant Biology",
+                "Horticulture And Landscaping"
+            ]
+        },
+        {
+            "name": "National Skills Qualification Framework Nsqf",
+            "subOptions": [
+                "National Skills Qualification Framework Nsqf"
+            ]
+        },
+        {
+            "name": "Chemical And Bacteriological Testing Methods",
+            "subOptions": [
+                "Chemical And Bacteriological Testing Methods",
+                "Biological Testing Methods And Protocols",
+                "Chemical And Bacteriological Analysis"
+            ]
+        },
+        {
+            "name": "International Development And Aid",
+            "subOptions": [
+                "International Development And Aid",
+                "International Relations And Diplomacy",
+                "International Development And Cooperation",
+                "International Trade And Commerce"
+            ]
+        },
+        {
+            "name": "Substrate Selection And Characterization",
+            "subOptions": [
+                "Substrate Selection And Characterization"
+            ]
+        },
+        {
+            "name": "Database Management",
+            "subOptions": [
+                "Database Management"
+            ]
+        },
+        {
+            "name": "Environmental Compliance",
+            "subOptions": [
+                "Environmental Compliance"
+            ]
+        },
+        {
+            "name": "Customer Service",
+            "subOptions": [
+                "Customer Service",
+                "Customer Relationship Management Crm For Service-Based Businesses"
+            ]
+        },
+        {
+            "name": "Information Technology And Software Development",
+            "subOptions": [
+                "Information Technology And Software Development"
+            ]
+        },
+        {
+            "name": "Insurance Claims",
+            "subOptions": [
+                "Insurance Claims"
+            ]
+        },
+        {
+            "name": "Diversity And Inclusion",
+            "subOptions": [
+                "Diversity And Inclusion"
+            ]
+        },
+        {
+            "name": "Compensation And Benefits",
+            "subOptions": [
+                "Compensation And Benefits"
+            ]
+        },
+        {
+            "name": "Theme Park Operations",
+            "subOptions": [
+                "Theme Park Operations"
+            ]
+        },
+        {
+            "name": "Water Safety Plan Development",
+            "subOptions": [
+                "Water Safety Plan Development",
+                "Law And Regulations Related To Water Bodies"
+            ]
+        },
+        {
+            "name": "Air Quality Monitoring And Analysis",
+            "subOptions": [
+                "Air Quality Monitoring And Analysis",
+                "Air Quality Monitoring And Assessment",
+                "Air Quality And Emissions Assessment",
+                "Air Quality Assessment",
+                "Air Quality Monitoring Techniques",
+                "Air Quality Monitoring",
+                "Air Quality Monitoring And Control",
+                "Air Quality Analysis"
+            ]
+        },
+        {
+            "name": "Electrical Engineering",
+            "subOptions": [
+                "Electrical Engineering"
+            ]
+        },
+        {
+            "name": "Quality Control And Assurance",
+            "subOptions": [
+                "Quality Control And Assurance",
+                "Quality Control And Testing"
+            ]
+        },
+        {
+            "name": "Land Use Planning",
+            "subOptions": [
+                "Land Use Planning"
+            ]
+        },
+        {
+            "name": "Algal Biology",
+            "subOptions": [
+                "Algal Biology"
+            ]
+        },
+        {
+            "name": "Acoustics",
+            "subOptions": [
+                "Acoustics"
+            ]
+        },
+        {
+            "name": "Financial Analysis And Budgeting",
+            "subOptions": [
+                "Financial Analysis And Budgeting"
+            ]
+        },
+        {
+            "name": "Limnology",
+            "subOptions": [
+                "Limnology"
+            ]
+        },
+        {
+            "name": "Water Pollution Control",
+            "subOptions": [
+                "Water Pollution Control"
+            ]
+        },
+        {
+            "name": "Source Apportionment Methods And Techniques",
+            "subOptions": [
+                "Source Apportionment Methods And Techniques"
+            ]
+        },
+        {
+            "name": "Environmental Impact Assessment",
+            "subOptions": [
+                "Environmental Impact Assessment"
+            ]
+        },
+        {
+            "name": "Cenosphere Properties And Characteristics",
+            "subOptions": [
+                "Cenosphere Properties And Characteristics",
+                "Chemical And Physical Analysis Of Cenosphere",
+                "Risk Assessment And Mitigation Strategies For Cenosphere Extraction Project",
+                "Market Analysis For Cenosphere",
+                "Cost Analysis For Cenosphere Extraction",
+                "Extraction Techniques For Cenosphere From Fly Ash",
+                "Environmental Impact Assessment Of Cenosphere Extraction",
+                "Regulatory Compliance For Cenosphere Extraction"
+            ]
+        },
+        {
+            "name": "Mining Operations And Processes",
+            "subOptions": [
+                "Mining Operations And Processes",
+                "Mining Project",
+                "Mining Engineering",
+                "Health And Safety Standards In Mining"
+            ]
+        },
+        {
+            "name": "Quality Control And Assurance",
+            "subOptions": [
+                "Quality Control And Assurance"
+            ]
+        },
+        {
+            "name": "Hydraulic Engineering",
+            "subOptions": [
+                "Hydraulic Engineering"
+            ]
+        },
+        {
+            "name": "Composting Processes And Principles",
+            "subOptions": [
+                "Composting Processes And Principles",
+                "Composting And Vermicomposting",
+                "Composting Technology"
+            ]
+        },
+        {
+            "name": "Optics",
+            "subOptions": [
+                "Optics"
+            ]
+        },
+        {
+            "name": "Mycobacterial Culture And Identification",
+            "subOptions": [
+                "Mycobacterial Culture And Identification"
+            ]
+        },
+        {
+            "name": "Soda Ash Production",
+            "subOptions": [
+                "Soda Ash Production",
+                "Fly Ash Composition And Properties",
+                "Ash Characterization Techniques And Methods",
+                "Ash Characterization"
+            ]
+        },
+        {
+            "name": "Interviewing And Investigation Techniques",
+            "subOptions": [
+                "Interviewing And Investigation Techniques"
+            ]
+        },
+        {
+            "name": "Technical Report Writing And Presentation Skills",
+            "subOptions": [
+                "Technical Report Writing And Presentation Skills",
+                "Subject Matter Expertise In The Specific Topics Of The Training Programmes",
+                "Report Writing And Presentation Skills"
+            ]
+        },
+        {
+            "name": "Industrial Processes",
+            "subOptions": [
+                "Industrial Processes",
+                "Industrial Manufacturing Processes",
+                "Pharmaceutical Manufacturing Processes",
+                "Paper Manufacturing Processes",
+                "Manufacturing Processes",
+                "Textile Manufacturing Processes And Technologies",
+                "Industrial Boiler Operations",
+                "Manufacturing And Production Processes",
+                "Boiler And Brick Kiln Operations And Maintenance"
+            ]
+        },
+        {
+            "name": "Sustainable Development And Environmental Management",
+            "subOptions": [
+                "Sustainable Development And Environmental Management"
+            ]
+        },
+        {
+            "name": "Water Distribution Systems",
+            "subOptions": [
+                "Water Distribution Systems",
+                "Water Distribution Networks"
+            ]
+        },
+        {
+            "name": "Internet Of Things",
+            "subOptions": [
+                "Internet Of Things"
+            ]
+        },
+        {
+            "name": "Water Conservation",
+            "subOptions": [
+                "Water Conservation"
+            ]
+        },
+        {
+            "name": "Fibroblast Activation And Its Role In Ckd",
+            "subOptions": [
+                "Fibroblast Activation And Its Role In Ckd",
+                "Medical Treatment Options For Ckd"
+            ]
+        },
+        {
+            "name": "Gastroenterology",
+            "subOptions": [
+                "Gastroenterology"
+            ]
+        },
+        {
+            "name": "Policy And Regulatory Compliance",
+            "subOptions": [
+                "Policy And Regulatory Compliance"
+            ]
+        },
+        {
+            "name": "Monitoring And Evaluation Frameworks",
+            "subOptions": [
+                "Monitoring And Evaluation Frameworks"
+            ]
+        },
+        {
+            "name": "Broadband Absorption Technology",
+            "subOptions": [
+                "Broadband Absorption Technology"
+            ]
+        },
+        {
+            "name": "Epidemiology And Public Health",
+            "subOptions": [
+                "Epidemiology And Public Health"
+            ]
+        },
+        {
+            "name": "Ecology",
+            "subOptions": [
+                "Ecology",
+                "Ecology And Biodiversity",
+                "Ecology And Biodiversity Conservation",
+                "Biodiversity",
+                "Ecosystem Conservation"
+            ]
+        },
+        {
+            "name": "High Rate Transpiration System Hrts",
+            "subOptions": [
+                "High Rate Transpiration System Hrts",
+                "High Rate Transpiration System Design And Operation",
+                "High Rate Transpiration Systems",
+                "High Rate Transpiration System"
+            ]
+        },
+        {
+            "name": "Urban Planning And Design",
+            "subOptions": [
+                "Urban Planning And Design"
+            ]
+        },
+        {
+            "name": "Environmental Policy And Management",
+            "subOptions": [
+                "Environmental Policy And Management"
+            ]
+        },
+        {
+            "name": "Morphological Identification Of Microinvertebrates",
+            "subOptions": [
+                "Morphological Identification Of Microinvertebrates"
+            ]
+        },
+        {
+            "name": "Bioremediation",
+            "subOptions": [
+                "Bioremediation"
+            ]
+        },
+        {
+            "name": "Environmental Microbiology",
+            "subOptions": [
+                "Environmental Microbiology"
+            ]
+        },
+        {
+            "name": "Sustainability And Corporate Social Responsibility",
+            "subOptions": [
+                "Sustainability And Corporate Social Responsibility",
+                "Sustainable Development And Corporate Social Responsibility"
+            ]
+        },
+        {
+            "name": "Environmental Monitoring And Assessment",
+            "subOptions": [
+                "Environmental Monitoring And Assessment",
+                "Environmental Monitoring",
+                "Environmental Monitoring And Reporting"
+            ]
+        },
+        {
+            "name": "Taxonomic Nomenclature And Terminology",
+            "subOptions": [
+                "Taxonomic Nomenclature And Terminology",
+                "Taxonomy",
+                "Taxonomic Databases And Software"
+            ]
+        },
+        {
+            "name": "Social Science",
+            "subOptions": [
+                "Social Science",
+                "Sociology",
+                "Social Sciences"
+            ]
+        },
+        {
+            "name": "Forensic Science",
+            "subOptions": [
+                "Forensic Science"
+            ]
+        },
+        {
+            "name": "Air Quality Modeling",
+            "subOptions": [
+                "Air Quality Modeling"
+            ]
+        },
+        {
+            "name": "Soil Science",
+            "subOptions": [
+                "Soil Science",
+                "Soil Chemistry And Physics"
+            ]
+        },
+        {
+            "name": "Nil",
+            "subOptions": [
+                "Nil"
+            ]
+        },
+        {
+            "name": "Plasma Physics",
+            "subOptions": [
+                "Plasma Physics"
+            ]
+        },
+        {
+            "name": "Virology",
+            "subOptions": [
+                "Virology"
+            ]
+        },
+        {
+            "name": "Natural Resource Management",
+            "subOptions": [
+                "Natural Resource Management"
+            ]
+        },
+        {
+            "name": "Water Treatment Processes",
+            "subOptions": [
+                "Water Treatment Processes"
+            ]
+        },
+        {
+            "name": "Carbon Sequestration",
+            "subOptions": [
+                "Carbon Sequestration"
+            ]
+        },
+        {
+            "name": "Pharmacology",
+            "subOptions": [
+                "Pharmacology"
+            ]
+        },
+        {
+            "name": "Chronic Kidney Diseases And Their Causes",
+            "subOptions": [
+                "Chronic Kidney Diseases And Their Causes"
+            ]
+        },
+        {
+            "name": "Fireworks And Pyrotechnics",
+            "subOptions": [
+                "Fireworks And Pyrotechnics"
+            ]
+        },
+        {
+            "name": "`",
+            "subOptions": [
+                "`"
+            ]
+        },
+        {
+            "name": "Policy And Regulatory Compliance",
+            "subOptions": [
+                "Policy And Regulatory Compliance"
+            ]
+        },
+        {
+            "name": "Project Management And Scheduling",
+            "subOptions": [
+                "Project Management And Scheduling"
+            ]
+        },
+        {
+            "name": "Industrial Safety And Risk Management",
+            "subOptions": [
+                "Industrial Safety And Risk Management"
+            ]
+        },
+        {
+            "name": "Industrial Ecology",
+            "subOptions": [
+                "Industrial Ecology"
+            ]
+        },
+        {
+            "name": "Vermicomposting",
+            "subOptions": [
+                "Vermicomposting"
+            ]
+        },
+        {
+            "name": "Land Reclamation",
+            "subOptions": [
+                "Land Reclamation"
+            ]
+        },
+        {
+            "name": "Sensor Technology And Data Collection",
+            "subOptions": [
+                "Sensor Technology And Data Collection"
+            ]
+        },
+        {
+            "name": "Indoor Air Quality",
+            "subOptions": [
+                "Indoor Air Quality"
+            ]
+        },
+        {
+            "name": "Solid Waste Management",
+            "subOptions": [
+                "Solid Waste Management"
+            ]
+        },
+        {
+            "name": "Wetland Restoration And Conservation",
+            "subOptions": [
+                "Wetland Restoration And Conservation"
+            ]
+        },
+        {
+            "name": "Health And Safety",
+            "subOptions": [
+                "Health And Safety"
+            ]
+        },
+        {
+            "name": "Environmental Management Systems",
+            "subOptions": [
+                "Environmental Management Systems"
+            ]
+        },
+        {
+            "name": "Environmental Policy And Regulations",
+            "subOptions": [
+                "Environmental Policy And Regulations"
+            ]
+        },
+        {
+            "name": "Community Development And Engagement",
+            "subOptions": [
+                "Community Development And Engagement"
+            ]
+        },
+        {
+            "name": "Mine Closure Planning And Execution",
+            "subOptions": [
+                "Mine Closure Planning And Execution"
+            ]
+        },
+        {
+            "name": "Waste Management And Disposal",
+            "subOptions": [
+                "Waste Management And Disposal"
+            ]
+        },
+        {
+            "name": "Hot Mixing Of Bitumen",
+            "subOptions": [
+                "Hot Mixing Of Bitumen",
+                "Bitumen Production And Processing"
+            ]
+        },
+        {
+            "name": "Conservation Biology",
+            "subOptions": [
+                "Conservation Biology"
+            ]
+        },
+        {
+            "name": "Waste Reduction And Recycling",
+            "subOptions": [
+                "Waste Reduction And Recycling"
+            ]
+        },
+        {
+            "name": "Nanotechnology",
+            "subOptions": [
+                "Nanotechnology"
+            ]
+        },
+        {
+            "name": "Data Science And Analytics",
+            "subOptions": [
+                "Data Science And Analytics"
+            ]
+        },
+        {
+            "name": "Data Analysis And Statistical Modeling",
+            "subOptions": [
+                "Data Analysis And Statistical Modeling"
+            ]
+        },
+        {
+            "name": "Regulatory Compliance And Standards",
+            "subOptions": [
+                "Regulatory Compliance And Standards"
+            ]
+        },
+        {
+            "name": "Troubleshooting",
+            "subOptions": [
+                "Troubleshooting"
+            ]
+        },
+        {
+            "name": "Water Treatment Technology",
+            "subOptions": [
+                "Water Treatment Technology"
+            ]
+        },
+        {
+            "name": "Bamboo Cultivation And Propagation Techniques",
+            "subOptions": [
+                "Bamboo Cultivation And Propagation Techniques"
+            ]
+        },
+        {
+            "name": "Water Quality Testing And Analysis",
+            "subOptions": [
+                "Water Quality Testing And Analysis"
+            ]
+        },
+        {
+            "name": "Safety Engineering",
+            "subOptions": [
+                "Safety Engineering",
+                "Safety Engineeringq"
+            ]
+        },
+        {
+            "name": "Sustainable Development And Resource Management",
+            "subOptions": [
+                "Sustainable Development And Resource Management"
+            ]
+        },
+        {
+            "name": "Genetics",
+            "subOptions": [
+                "Genetics"
+            ]
+        },
+        {
+            "name": "Organic Chemistry",
+            "subOptions": [
+                "Organic Chemistry"
+            ]
+        },
+        {
+            "name": "Stakeholder Engagement And Communication Strategies",
+            "subOptions": [
+                "Stakeholder Engagement And Communication Strategies"
+            ]
+        },
+        {
+            "name": "Environmental Law And Regulations",
+            "subOptions": [
+                "Environmental Law And Regulations",
+                "Legal Framework For Environmental Clearance"
+            ]
+        },
+        {
+            "name": "Antibiotic Resistance Genes",
+            "subOptions": [
+                "Antibiotic Resistance Genes",
+                "Antibiotic Resistance"
+            ]
+        },
+        {
+            "name": "Earthworm Biology",
+            "subOptions": [
+                "Earthworm Biology"
+            ]
+        },
+        {
+            "name": "Cost Estimation And Budgeting",
+            "subOptions": [
+                "Cost Estimation And Budgeting"
+            ]
+        },
+        {
+            "name": "Materials Science",
+            "subOptions": [
+                "Materials Science"
+            ]
+        },
+        {
+            "name": "Geographic Information Systems And Mapping",
+            "subOptions": [
+                "Geographic Information Systems And Mapping"
+            ]
+        },
+        {
+            "name": "Hydrogeology",
+            "subOptions": [
+                "Hydrogeology",
+                "Hydrogeological"
+            ]
+        },
+        {
+            "name": "Geotechnical Engineering",
+            "subOptions": [
+                "Geotechnical Engineering"
+            ]
+        },
+        {
+            "name": "Air Pollution And Its Effects On Human Health",
+            "subOptions": [
+                "Air Pollution And Its Effects On Human Health"
+            ]
+        },
+        {
+            "name": "Environmental Policy",
+            "subOptions": [
+                "Environmental Policy"
+            ]
+        },
+        {
+            "name": "Soil And Land Management",
+            "subOptions": [
+                "Soil And Land Management"
+            ]
+        },
+        {
+            "name": "Groundwater Hydrology",
+            "subOptions": [
+                "Groundwater Hydrology"
+            ]
+        },
+        {
+            "name": "Statistical Analysis And Modeling",
+            "subOptions": [
+                "Statistical Analysis And Modeling"
+            ]
+        },
+        {
+            "name": "Sustainability And Environmental Impact Assessment",
+            "subOptions": [
+                "Sustainability And Environmental Impact Assessment"
+            ]
+        },
+        {
+            "name": "Combustion Science",
+            "subOptions": [
+                "Combustion Science"
+            ]
+        },
+        {
+            "name": "Health Impact Assessment",
+            "subOptions": [
+                "Health Impact Assessment"
+            ]
+        },
+        {
+            "name": "Data Analysis And Visualization",
+            "subOptions": [
+                "Data Analysis And Visualization"
+            ]
+        },
+        {
+            "name": "Swachh Bharat Mission - Gramin Guidelines And Objectives",
+            "subOptions": [
+                "Swachh Bharat Mission - Gramin Guidelines And Objectives"
+            ]
+        },
+        {
+            "name": "Mechanical Engineering",
+            "subOptions": [
+                "Mechanical Engineering"
+            ]
+        },
+        {
+            "name": "Information Technology And Software Development",
+            "subOptions": [
+                "Information Technology And Software Development"
+            ]
+        },
+        {
+            "name": "Sulphur-Di-Oxide So2 Abatement Measures",
+            "subOptions": [
+                "Sulphur-Di-Oxide So2 Abatement Measures"
+            ]
+        },
+        {
+            "name": "Health And Safety Management",
+            "subOptions": [
+                "Health And Safety Management"
+            ]
+        },
+        {
+            "name": "Environmental Regulations And Compliance",
+            "subOptions": [
+                "Environmental Regulations And Compliance"
+            ]
+        },
+        {
+            "name": "Air Pollution Monitoring And Measurement Techniques",
+            "subOptions": [
+                "Air Pollution Monitoring And Measurement Techniques"
+            ]
+        },
+        {
+            "name": "Communication And Outreach Strategies",
+            "subOptions": [
+                "Communication And Outreach Strategies"
+            ]
+        },
+        {
+            "name": "Demography",
+            "subOptions": [
+                "Demography"
+            ]
+        },
+        {
+            "name": "Marine Biology",
+            "subOptions": [
+                "Marine Biology"
+            ]
+        },
+        {
+            "name": "Stakeholder Engagement And Community Outreach",
+            "subOptions": [
+                "Stakeholder Engagement And Community Outreach"
+            ]
+        },
+        {
+            "name": "Iso 14001 Standards",
+            "subOptions": [
+                "Iso 14001 Standards"
+            ]
+        },
+        {
+            "name": "Water Quality Monitoring And Analysis",
+            "subOptions": [
+                "Water Quality Monitoring And Analysis"
+            ]
+        },
+        {
+            "name": "Cost Analysis And Budgeting",
+            "subOptions": [
+                "Cost Analysis And Budgeting"
+            ]
+        },
+        {
+            "name": "Immunology",
+            "subOptions": [
+                "Immunology"
+            ]
+        },
+        {
+            "name": "Legal And Regulatory Compliance",
+            "subOptions": [
+                "Legal And Regulatory Compliance"
+            ]
+        },
+        {
+            "name": "Environmental Law And Policy",
+            "subOptions": [
+                "Environmental Law And Policy"
+            ]
+        },
+        {
+            "name": "Data Management And Analysis",
+            "subOptions": [
+                "Data Management And Analysis"
+            ]
+        },
+        {
+            "name": "Decision Support Systems",
+            "subOptions": [
+                "Decision Support Systems"
+            ]
+        },
+        {
+            "name": "Standard Operating Procedure Development",
+            "subOptions": [
+                "Standard Operating Procedure Development"
+            ]
+        },
+        {
+            "name": "Mining And Mineral Processing",
+            "subOptions": [
+                "Mining And Mineral Processing",
+                "Mining And Mineral Extraction"
+            ]
+        },
+        {
+            "name": "Reverse Osmosis Technology",
+            "subOptions": [
+                "Reverse Osmosis Technology"
+            ]
+        },
+        {
+            "name": "Agronomy",
+            "subOptions": [
+                "Agronomy"
+            ]
+        },
+        {
+            "name": "Socio-Economic Impact Assessment",
+            "subOptions": [
+                "Socio-Economic Impact Assessment"
+            ]
+        },
+        {
+            "name": "Public Health And Safety",
+            "subOptions": [
+                "Public Health And Safety"
+            ]
+        },
+        {
+            "name": "Policy And Regulation",
+            "subOptions": [
+                "Policy And Regulation"
+            ]
+        },
+        {
+            "name": "Transportation Engineering",
+            "subOptions": [
+                "Transportation Engineering"
+            ]
+        },
+        {
+            "name": "Waste Characterization And Quantification",
+            "subOptions": [
+                "Waste Characterization And Quantification"
+            ]
+        },
+        {
+            "name": "Graphene Synthesis And Characterization",
+            "subOptions": [
+                "Graphene Synthesis And Characterization"
+            ]
+        },
+        {
+            "name": "Policy And Regulatory Frameworks",
+            "subOptions": [
+                "Policy And Regulatory Frameworks"
+            ]
+        },
+        {
+            "name": "Seismology",
+            "subOptions": [
+                "Seismology"
+            ]
+        },
+        {
+            "name": "Environmental Policy And Governance",
+            "subOptions": [
+                "Environmental Policy And Governance"
+            ]
+        },
+        {
+            "name": "Drone Technology And Operation",
+            "subOptions": [
+                "Drone Technology And Operation"
+            ]
+        },
+        {
+            "name": "Stakeholder Engagement And Communication",
+            "subOptions": [
+                "Stakeholder Engagement And Communication"
+            ]
+        },
+        {
+            "name": "Coal Mining And Its Impact On The Environment",
+            "subOptions": [
+                "Coal Mining And Its Impact On The Environment"
+            ]
+        },
+        {
+            "name": "Capacity Building And Training",
+            "subOptions": [
+                "Capacity Building And Training"
+            ]
+        }
+    ]
+}
